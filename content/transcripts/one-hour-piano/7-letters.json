@@ -1,5 +1,72 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539394653/93204a0731"
+  "text": "The good news is that there are only seven letters in the musical alphabet. In this program we will be working with the key of C because it is the key with no flats or sharps. This means we will only be working with the white piano keys. These are the chords of the C scale. When you know these six chords the number of songs you can play is absolutely endless. That's the C chord. E minor, E minor, F major, G major, A minor. With the left hand. Practice those every day. When you get both hands down and you are comfortable with your hand position do them at the same time. [BLANK_AUDIO]",
+  "cues": [
+    {
+      "start": 0,
+      "end": 11.72,
+      "text": "The good news is that there are only seven letters in the musical alphabet."
+    },
+    {
+      "start": 11.72,
+      "end": 18.08,
+      "text": "In this program we will be working with the key of C because it is the key with no flats"
+    },
+    {
+      "start": 18.08,
+      "end": 19.76,
+      "text": "or sharps."
+    },
+    {
+      "start": 19.76,
+      "end": 28.24,
+      "text": "This means we will only be working with the white piano keys."
+    },
+    {
+      "start": 28.24,
+      "end": 31.08,
+      "text": "These are the chords of the C scale."
+    },
+    {
+      "start": 31.08,
+      "end": 44,
+      "text": "When you know these six chords the number of songs you can play is absolutely endless."
+    },
+    {
+      "start": 44,
+      "end": 49.36,
+      "text": "That's the C chord."
+    },
+    {
+      "start": 49.36,
+      "end": 70.92,
+      "text": "E minor, E minor, F major, G major, A minor."
+    },
+    {
+      "start": 70.92,
+      "end": 94.52,
+      "text": "With the left hand."
+    },
+    {
+      "start": 94.52,
+      "end": 97.92,
+      "text": "Practice those every day."
+    },
+    {
+      "start": 97.92,
+      "end": 102.6,
+      "text": "When you get both hands down and you are comfortable with your hand position do them"
+    },
+    {
+      "start": 102.6,
+      "end": 103.8,
+      "text": "at the same time."
+    },
+    {
+      "start": 127.92,
+      "end": 134.92,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539394653"
 }

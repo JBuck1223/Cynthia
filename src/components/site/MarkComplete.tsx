@@ -15,12 +15,7 @@ export function MarkComplete({ courseSlug, lessonSlug }: { courseSlug: string; l
   }
 
   return (
-    <button
-      type="button"
-      onClick={mark}
-      disabled={done}
-      className="mt-4 rounded-full border border-gulf/30 px-4 py-2 text-sm text-gulf-deep hover:bg-sky disabled:opacity-60"
-    >
+    <button type="button" onClick={mark} disabled={done} className="btn-secondary mt-5 disabled:opacity-60">
       {done ? 'Marked complete' : 'Mark lesson complete'}
     </button>
   )

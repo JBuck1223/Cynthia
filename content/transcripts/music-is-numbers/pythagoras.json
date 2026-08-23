@@ -1,5 +1,67 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539415613/b00068bda6"
+  "text": "Have you ever wondered how harmonics were put together? In the 6th century BC, a man named Pythagoras, who was a mathematician, was walking by a blacksmith's shop and listened to the different sized hammers hitting the anvil. He had a gigantic aha moment. He noticed that the different sized hammers produced different tones. From this discovery, he developed what we know as the diatonic scale, also known as Do-re-mi-fa-sula-tido. It was developed with ratios. For instance, on the piano, middle C, the length of that string is twice the size of the C above it. It is also half the size of the C below it. That is the 1-2 ratio. The most perfect harmony is the 1-5, and that is a 3-2 ratio. That means that the string that plays G is 2/3 the length of C. I just find it all so fascinating how harmonic music comes together and how smart Pythagoras was. Music is the universal language. Did you know that the word universe means one song, una one verse song? Now let's get started.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 3.92,
+      "text": "Have you ever wondered how harmonics were put together?"
+    },
+    {
+      "start": 3.92,
+      "end": 9.68,
+      "text": "In the 6th century BC, a man named Pythagoras, who was a mathematician,"
+    },
+    {
+      "start": 9.68,
+      "end": 18.16,
+      "text": "was walking by a blacksmith's shop and listened to the different sized hammers hitting the anvil."
+    },
+    {
+      "start": 18.16,
+      "end": 26.24,
+      "text": "He had a gigantic aha moment. He noticed that the different sized hammers produced different tones."
+    },
+    {
+      "start": 26.8,
+      "end": 33.92,
+      "text": "From this discovery, he developed what we know as the diatonic scale, also known as"
+    },
+    {
+      "start": 34.64,
+      "end": 43.52,
+      "text": "Do-re-mi-fa-sula-tido. It was developed with ratios. For instance, on the piano, middle C,"
+    },
+    {
+      "start": 44.08,
+      "end": 54.16,
+      "text": "the length of that string is twice the size of the C above it. It is also half the size of the C"
+    },
+    {
+      "start": 54.16,
+      "end": 63.76,
+      "text": "below it. That is the 1-2 ratio. The most perfect harmony is the 1-5, and that is a 3-2 ratio."
+    },
+    {
+      "start": 64.56,
+      "end": 77.12,
+      "text": "That means that the string that plays G is 2/3 the length of C. I just find it all so fascinating"
+    },
+    {
+      "start": 77.12,
+      "end": 86.96,
+      "text": "how harmonic music comes together and how smart Pythagoras was. Music is the universal language."
+    },
+    {
+      "start": 87.84,
+      "end": 96.96,
+      "text": "Did you know that the word universe means one song, una one verse song?"
+    },
+    {
+      "start": 98.88,
+      "end": 101.28,
+      "text": "Now let's get started."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539415613"
 }

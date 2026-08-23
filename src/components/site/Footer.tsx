@@ -1,31 +1,34 @@
 import Link from 'next/link'
 import { SITE } from '@/lib/catalog'
+import { Logo } from '@/components/site/Logo'
 
 export function Footer() {
   return (
-    <footer className="bg-horizon text-foam/80">
-      <div className="mx-auto flex max-w-6xl flex-col gap-8 px-5 py-12 md:flex-row md:items-end md:justify-between">
+    <footer className="relative overflow-hidden border-t border-gulf/10 bg-sky/70 text-horizon">
+      <div className="pointer-events-none absolute -right-16 -top-20 h-56 w-56 rounded-full bg-gulf-light/40 blur-3xl" />
+      <div className="pointer-events-none absolute -bottom-16 left-10 h-40 w-40 rounded-full bg-peach/80 blur-3xl" />
+      <div className="relative mx-auto flex max-w-site flex-col gap-10 px-6 py-16 md:flex-row md:items-end md:justify-between lg:px-10">
         <div>
-          <p className="font-display text-2xl text-foam">Cynthia Music</p>
-          <p className="mt-2 max-w-sm text-sm text-foam/60">
+          <Logo />
+          <p className="mt-3 max-w-sm text-base text-muted">
             {SITE.tagline}. Piano and composition from {SITE.city}.
           </p>
         </div>
-        <div className="flex flex-wrap gap-6 text-sm">
-          <Link href="/courses" className="hover:text-foam">
+        <div className="flex flex-wrap gap-7 text-base">
+          <Link href="/courses" className="hover:text-gulf-deep">
             Courses
           </Link>
-          <Link href="/books" className="hover:text-foam">
+          <Link href="/books" className="hover:text-gulf-deep">
             Books
           </Link>
-          <Link href="/studio" className="hover:text-foam">
+          <Link href="/studio" className="hover:text-gulf-deep">
             Studio
           </Link>
-          <a href={`mailto:${SITE.email}`} className="hover:text-foam">
+          <a href={`mailto:${SITE.email}`} className="hover:text-gulf-deep">
             {SITE.email}
           </a>
         </div>
-        <p className="text-sm text-foam/50">© {new Date().getFullYear()} Cynthia Music</p>
+        <p className="text-base text-muted">© {new Date().getFullYear()} Cynthia Music</p>
       </div>
     </footer>
   )

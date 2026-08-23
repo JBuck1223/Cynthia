@@ -35,7 +35,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${sourceSans.variable} ${fraunces.variable} h-full`}>
-      <body className="min-h-full bg-sand text-horizon antialiased font-sans">{children}</body>
+      <body className="min-h-full text-horizon antialiased font-sans">{children}</body>
     </html>
   )
 }

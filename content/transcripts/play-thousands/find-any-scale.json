@@ -1,5 +1,52 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539420484/fa9192e3fe"
+  "text": "To find any scale, all you need to know is your whole steps and half steps, so let's go to the scale of C. One to two and any scale is always a whole step. Two to three is always a whole step. Three to four is always a half step. Four to five is whole. Five to six is whole. Six to seven is whole. Seven to one or eight, if you want to do it that way, is half. This is G. We're going to find the scale of G. Remember the only half steps are between three, four, seven and eight. Whole step, whole step. Three to four is half, whole step, whole step, half step. So the scale of G has one sharp. That's the pattern. You can find any key by using that pattern. Three and four, seven and one are the only half steps in any scale. You can do this with every note on the keyboard.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 12.68,
+      "text": "To find any scale, all you need to know is your whole steps and half steps, so let's"
+    },
+    {
+      "start": 12.68,
+      "end": 24.8,
+      "text": "go to the scale of C. One to two and any scale is always a whole step. Two to three is always"
+    },
+    {
+      "start": 24.8,
+      "end": 35.4,
+      "text": "a whole step. Three to four is always a half step. Four to five is whole. Five to six is whole."
+    },
+    {
+      "start": 35.4,
+      "end": 52.6,
+      "text": "Six to seven is whole. Seven to one or eight, if you want to do it that way, is half. This"
+    },
+    {
+      "start": 52.6,
+      "end": 59.76,
+      "text": "is G. We're going to find the scale of G. Remember the only half steps are between three,"
+    },
+    {
+      "start": 59.76,
+      "end": 75.84,
+      "text": "four, seven and eight. Whole step, whole step. Three to four is half, whole step, whole step,"
+    },
+    {
+      "start": 75.84,
+      "end": 90.28,
+      "text": "half step. So the scale of G has one sharp. That's the pattern. You can find any key by"
+    },
+    {
+      "start": 90.28,
+      "end": 99.12,
+      "text": "using that pattern. Three and four, seven and one are the only half steps in any scale."
+    },
+    {
+      "start": 99.12,
+      "end": 107.76,
+      "text": "You can do this with every note on the keyboard."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539420484"
 }

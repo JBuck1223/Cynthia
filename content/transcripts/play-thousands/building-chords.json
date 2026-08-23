@@ -1,5 +1,327 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539421922/67fc36ff80"
+  "text": "How to find any major chord. You start with the root, which is the name of the chord. So let's find, for instance, F major. What we're going to do is start with the root, then we're going to count up four half steps and then three half steps. One, two, three, four, one, two, three. There is your F chord. Let's try it with D. One, two, three, four, one, two, three. That is a D major chord, four, then three. Let's find A major, one, two, three, four, one, two, three. To find the minor chord, it's just the opposite. You start with your root, then you count up three, and then count up four. So let's start with C. C is our root. We want to play C minor, one, two, three, one, two, three, four. That C minor. C major was this, C minor is this. So the only thing that really changes is the third. Why do we call this the third, one, two, three, in the C scale. C major, C minor. Let's go to F, one, two, three, one, two, three, four. This is the F minor. This is F major, and this is F minor. So if you know the minor chord, you know the minor chord, and if you know the minor chord, you know the major chord, for instance, in the scale of C, we know that this is C major. We know that this is D minor, one, two, three, one, two, three, four. So to make this major, we just go up a half a step in the third. This D major, this is D minor, let's do it with E. One, two, three, one, two, three, four. That's E minor, and that's E major, and so on. How to find diminished and augmented chords. You start with your root, for instance, we'll start with F diminished, and we're going to count up three half steps, then three half steps, one, two, three, one, two, three. Kind of a scary sound, let's do D diminished, one, two, three, one, two, three. Another scary sound, let's try E flat diminished, one, two, three, one, two, three. To play augmented, you count up four half steps, then four more half steps. D augmented, one, two, three, four, one, two, three, four. Another kind of suspenseful sound, G augmented, one, two, three, four, one, two, three, four. To play any seventh chord, you just add three half steps. Let's play this C major chord, and count up three half steps, one, two, three. Let's play an E major chord, one, two, three. Now let's do it with the minor chords. Let's play D minor, and count up three, one, two, three. Let's play a C minor seventh. Here's our C minor, one, two, three. To play a major seventh, you play the major chord, and add four half steps. Let's play F major, and add four, one, two, three, four. It's called a major because E is the seventh note of the F major scale. Let's look at D, D major, count up four, one, two, three, four. I love this sound. To play a sixth, you play the major chord, and add the relative minor, or you just count up a whole step from the fifth of your chord. Let's play a D. The relative minor is B, and you can play these in any order you want to. To play a ninth, one, two, three, four, five, six, seven, eight, nine. You simply have the note right in between your second and third, which is one whole step up from the root. Last but not least, one of my favorites is the suspended. The suspended chord, you add the fourth note of the chord. Here is C major, the fourth note of C major, one, two, three, four. Find your major chord, and then just a half step above your third. Let's find the fourth note of the F scale is B flat. Let's play it in a different order. Those are what I call the colorful chords.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 10.88,
+      "text": "How to find any major chord."
+    },
+    {
+      "start": 10.88,
+      "end": 14.52,
+      "text": "You start with the root, which is the name of the chord."
+    },
+    {
+      "start": 14.52,
+      "end": 20.14,
+      "text": "So let's find, for instance, F major."
+    },
+    {
+      "start": 20.14,
+      "end": 26.7,
+      "text": "What we're going to do is start with the root, then we're going to count up four half steps"
+    },
+    {
+      "start": 26.7,
+      "end": 31.82,
+      "text": "and then three half steps."
+    },
+    {
+      "start": 31.82,
+      "end": 39.22,
+      "text": "One, two, three, four, one, two, three."
+    },
+    {
+      "start": 39.22,
+      "end": 42.9,
+      "text": "There is your F chord."
+    },
+    {
+      "start": 42.9,
+      "end": 48.02,
+      "text": "Let's try it with D."
+    },
+    {
+      "start": 48.02,
+      "end": 54.62,
+      "text": "One, two, three, four, one, two, three."
+    },
+    {
+      "start": 54.62,
+      "end": 60.4,
+      "text": "That is a D major chord, four, then three."
+    },
+    {
+      "start": 60.4,
+      "end": 75,
+      "text": "Let's find A major, one, two, three, four, one, two, three."
+    },
+    {
+      "start": 75,
+      "end": 78.94,
+      "text": "To find the minor chord, it's just the opposite."
+    },
+    {
+      "start": 78.94,
+      "end": 86.7,
+      "text": "You start with your root, then you count up three, and then count up four."
+    },
+    {
+      "start": 86.7,
+      "end": 90.06,
+      "text": "So let's start with C."
+    },
+    {
+      "start": 90.06,
+      "end": 91.06,
+      "text": "C is our root."
+    },
+    {
+      "start": 91.06,
+      "end": 99.78,
+      "text": "We want to play C minor, one, two, three, one, two, three, four."
+    },
+    {
+      "start": 99.78,
+      "end": 101.98,
+      "text": "That C minor."
+    },
+    {
+      "start": 101.98,
+      "end": 109.86,
+      "text": "C major was this, C minor is this."
+    },
+    {
+      "start": 109.86,
+      "end": 113.7,
+      "text": "So the only thing that really changes is the third."
+    },
+    {
+      "start": 113.7,
+      "end": 121.14,
+      "text": "Why do we call this the third, one, two, three, in the C scale."
+    },
+    {
+      "start": 121.14,
+      "end": 127.3,
+      "text": "C major, C minor."
+    },
+    {
+      "start": 127.3,
+      "end": 136.58,
+      "text": "Let's go to F, one, two, three, one, two, three, four."
+    },
+    {
+      "start": 136.58,
+      "end": 139.74,
+      "text": "This is the F minor."
+    },
+    {
+      "start": 139.74,
+      "end": 148.22,
+      "text": "This is F major, and this is F minor."
+    },
+    {
+      "start": 148.22,
+      "end": 153.82,
+      "text": "So if you know the minor chord, you know the minor chord, and if you know the minor chord,"
+    },
+    {
+      "start": 153.82,
+      "end": 162.42,
+      "text": "you know the major chord, for instance, in the scale of C, we know that this is C major."
+    },
+    {
+      "start": 162.42,
+      "end": 170.86,
+      "text": "We know that this is D minor, one, two, three, one, two, three, four."
+    },
+    {
+      "start": 170.86,
+      "end": 176.74,
+      "text": "So to make this major, we just go up a half a step in the third."
+    },
+    {
+      "start": 176.74,
+      "end": 191.3,
+      "text": "This D major, this is D minor, let's do it with E. One, two, three, one, two, three, four."
+    },
+    {
+      "start": 191.3,
+      "end": 199.26,
+      "text": "That's E minor, and that's E major, and so on."
+    },
+    {
+      "start": 199.26,
+      "end": 204.58,
+      "text": "How to find diminished and augmented chords."
+    },
+    {
+      "start": 204.58,
+      "end": 210.46,
+      "text": "You start with your root, for instance, we'll start with F diminished, and we're going to"
+    },
+    {
+      "start": 210.46,
+      "end": 220.66,
+      "text": "count up three half steps, then three half steps, one, two, three, one, two, three."
+    },
+    {
+      "start": 220.66,
+      "end": 231.78,
+      "text": "Kind of a scary sound, let's do D diminished, one, two, three, one, two, three."
+    },
+    {
+      "start": 231.78,
+      "end": 245.5,
+      "text": "Another scary sound, let's try E flat diminished, one, two, three, one, two, three."
+    },
+    {
+      "start": 245.5,
+      "end": 253.14,
+      "text": "To play augmented, you count up four half steps, then four more half steps."
+    },
+    {
+      "start": 253.14,
+      "end": 261.54,
+      "text": "D augmented, one, two, three, four, one, two, three, four."
+    },
+    {
+      "start": 261.54,
+      "end": 276.06,
+      "text": "Another kind of suspenseful sound, G augmented, one, two, three, four, one, two, three, four."
+    },
+    {
+      "start": 276.06,
+      "end": 289.34,
+      "text": "To play any seventh chord, you just add three half steps."
+    },
+    {
+      "start": 289.34,
+      "end": 297.66,
+      "text": "Let's play this C major chord, and count up three half steps, one, two, three."
+    },
+    {
+      "start": 297.66,
+      "end": 308.42,
+      "text": "Let's play an E major chord, one, two, three."
+    },
+    {
+      "start": 308.42,
+      "end": 311.34,
+      "text": "Now let's do it with the minor chords."
+    },
+    {
+      "start": 311.34,
+      "end": 324.98,
+      "text": "Let's play D minor, and count up three, one, two, three."
+    },
+    {
+      "start": 324.98,
+      "end": 328.62,
+      "text": "Let's play a C minor seventh."
+    },
+    {
+      "start": 328.62,
+      "end": 337.3,
+      "text": "Here's our C minor, one, two, three."
+    },
+    {
+      "start": 337.3,
+      "end": 346.26,
+      "text": "To play a major seventh, you play the major chord, and add four half steps."
+    },
+    {
+      "start": 346.26,
+      "end": 355.58,
+      "text": "Let's play F major, and add four, one, two, three, four."
+    },
+    {
+      "start": 355.58,
+      "end": 364.34,
+      "text": "It's called a major because E is the seventh note of the F major scale."
+    },
+    {
+      "start": 364.34,
+      "end": 373.26,
+      "text": "Let's look at D, D major, count up four, one, two, three, four."
+    },
+    {
+      "start": 373.26,
+      "end": 379.7,
+      "text": "I love this sound."
+    },
+    {
+      "start": 379.7,
+      "end": 392.58,
+      "text": "To play a sixth, you play the major chord, and add the relative minor, or you just count"
+    },
+    {
+      "start": 392.58,
+      "end": 404.58,
+      "text": "up a whole step from the fifth of your chord."
+    },
+    {
+      "start": 404.58,
+      "end": 410.18,
+      "text": "Let's play a D."
+    },
+    {
+      "start": 410.18,
+      "end": 422.54,
+      "text": "The relative minor is B, and you can play these in any order you want to."
+    },
+    {
+      "start": 422.54,
+      "end": 436.7,
+      "text": "To play a ninth, one, two, three, four, five, six, seven, eight, nine."
+    },
+    {
+      "start": 436.7,
+      "end": 448.22,
+      "text": "You simply have the note right in between your second and third, which is one whole step"
+    },
+    {
+      "start": 448.22,
+      "end": 453.78,
+      "text": "up from the root."
+    },
+    {
+      "start": 453.78,
+      "end": 459.54,
+      "text": "Last but not least, one of my favorites is the suspended."
+    },
+    {
+      "start": 459.54,
+      "end": 464.22,
+      "text": "The suspended chord, you add the fourth note of the chord."
+    },
+    {
+      "start": 464.22,
+      "end": 477.14,
+      "text": "Here is C major, the fourth note of C major, one, two, three, four."
+    },
+    {
+      "start": 477.14,
+      "end": 483.78,
+      "text": "Find your major chord, and then just a half step above your third."
+    },
+    {
+      "start": 483.78,
+      "end": 493.06,
+      "text": "Let's find the fourth note of the F scale is B flat."
+    },
+    {
+      "start": 493.06,
+      "end": 499.14,
+      "text": "Let's play it in a different order."
+    },
+    {
+      "start": 499.14,
+      "end": 508.58,
+      "text": "Those are what I call the colorful chords."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539421922"
 }

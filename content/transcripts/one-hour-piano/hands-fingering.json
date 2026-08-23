@@ -1,5 +1,147 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539393635/84f0685790"
+  "text": "Hand position is very important when you're playing the piano because you want to be comfortable and you want to be able to play the piano well. Art your palms as if you are hugging a mango and then gently put your fingers on the keys. Now with your fingertips play with the keys as if you're taking dust off of them. Relax, this is a good hand position. You don't want to play like you've got claws or talons and you certainly don't want to have fingers up in the air. You want to be relaxed as if you're hugging a mango and dusting the keys. Now we're going to play in the key of C. When you play the piano your thumb is your one finger. Winter is your two finger, middle finger, three finger. Your ring finger is the four finger and your pinky is the five finger. Let's play with just the right hand. Notice that a couple of times I'll do it with you. Very good, your fingers are like little hammers. Just your fingertips. Just like your hand is over a mango. Now let's do it with the left hand. Again. One more time. Very good. Now let's do it together. Again. Again, your hands are like they're resting on a mango. One more time. Very good. Do that exercise so you can get your hands in a good position and feeling comfortable with playing those five notes.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 11.36,
+      "text": "Hand position is very important when you're playing the piano because you want to be comfortable"
+    },
+    {
+      "start": 11.36,
+      "end": 14.48,
+      "text": "and you want to be able to play the piano well."
+    },
+    {
+      "start": 14.48,
+      "end": 22.56,
+      "text": "Art your palms as if you are hugging a mango and then gently put your fingers on the keys."
+    },
+    {
+      "start": 22.56,
+      "end": 28.72,
+      "text": "Now with your fingertips play with the keys as if you're taking dust off of them."
+    },
+    {
+      "start": 28.72,
+      "end": 34.68,
+      "text": "Relax, this is a good hand position."
+    },
+    {
+      "start": 34.68,
+      "end": 39.28,
+      "text": "You don't want to play like you've got claws or talons and you certainly don't want to"
+    },
+    {
+      "start": 39.28,
+      "end": 41.4,
+      "text": "have fingers up in the air."
+    },
+    {
+      "start": 41.4,
+      "end": 47.8,
+      "text": "You want to be relaxed as if you're hugging a mango and dusting the keys."
+    },
+    {
+      "start": 47.8,
+      "end": 51.68,
+      "text": "Now we're going to play in the key of C."
+    },
+    {
+      "start": 51.68,
+      "end": 56.04,
+      "text": "When you play the piano your thumb is your one finger."
+    },
+    {
+      "start": 56.04,
+      "end": 61.32,
+      "text": "Winter is your two finger, middle finger, three finger."
+    },
+    {
+      "start": 61.32,
+      "end": 67.64,
+      "text": "Your ring finger is the four finger and your pinky is the five finger."
+    },
+    {
+      "start": 67.64,
+      "end": 82.8,
+      "text": "Let's play with just the right hand."
+    },
+    {
+      "start": 82.8,
+      "end": 111.88,
+      "text": "Notice that a couple of times I'll do it with you."
+    },
+    {
+      "start": 111.88,
+      "end": 120.32,
+      "text": "Very good, your fingers are like little hammers."
+    },
+    {
+      "start": 120.32,
+      "end": 128.56,
+      "text": "Just your fingertips."
+    },
+    {
+      "start": 128.56,
+      "end": 132.88,
+      "text": "Just like your hand is over a mango."
+    },
+    {
+      "start": 132.88,
+      "end": 148.16,
+      "text": "Now let's do it with the left hand."
+    },
+    {
+      "start": 148.16,
+      "end": 161.16,
+      "text": "Again."
+    },
+    {
+      "start": 161.16,
+      "end": 174.8,
+      "text": "One more time."
+    },
+    {
+      "start": 174.8,
+      "end": 175.8,
+      "text": "Very good."
+    },
+    {
+      "start": 175.8,
+      "end": 186.68,
+      "text": "Now let's do it together."
+    },
+    {
+      "start": 186.68,
+      "end": 193.84,
+      "text": "Again."
+    },
+    {
+      "start": 193.84,
+      "end": 211.48,
+      "text": "Again, your hands are like they're resting on a mango."
+    },
+    {
+      "start": 211.48,
+      "end": 227.24,
+      "text": "One more time."
+    },
+    {
+      "start": 227.24,
+      "end": 228.24,
+      "text": "Very good."
+    },
+    {
+      "start": 228.24,
+      "end": 236.44,
+      "text": "Do that exercise so you can get your hands in a good position and feeling comfortable"
+    },
+    {
+      "start": 236.44,
+      "end": 242.04,
+      "text": "with playing those five notes."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539393635"
 }

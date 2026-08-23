@@ -1,5 +1,47 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539419588/e4697ac8a2"
+  "text": "These are the symbols for the various chords. If you see a number or letter standing alone, it's a major chord. If there's a minus sign or a small M next to it, it's a minor chord. If there is a 7, it's a seventh chord. If there is a M or a minus sign, with a 7, it's a minor seventh chord. If there's an M, A, J, 7, or a small triangle, it's a major seventh chord. A small circle or IDIM is a diminished chord. A plus sign or an AUG is an augmented chord. If you see a 6 next to it, it's a 6th chord, a 9 is a 9th chord, and a S-U-S, it's a suspended chord. Later on, I will show you how to build those chords on the keyboard. If you play the guitar, you can look them up in a guitar chord book.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 11.94,
+      "text": "These are the symbols for the various chords. If you see a number or letter standing alone,"
+    },
+    {
+      "start": 11.94,
+      "end": 19.08,
+      "text": "it's a major chord. If there's a minus sign or a small M next to it, it's a minor chord."
+    },
+    {
+      "start": 19.08,
+      "end": 27.42,
+      "text": "If there is a 7, it's a seventh chord. If there is a M or a minus sign, with a 7, it's"
+    },
+    {
+      "start": 27.42,
+      "end": 36.2,
+      "text": "a minor seventh chord. If there's an M, A, J, 7, or a small triangle, it's a major seventh"
+    },
+    {
+      "start": 36.2,
+      "end": 46.16,
+      "text": "chord. A small circle or IDIM is a diminished chord. A plus sign or an AUG is an augmented"
+    },
+    {
+      "start": 46.16,
+      "end": 58.1,
+      "text": "chord. If you see a 6 next to it, it's a 6th chord, a 9 is a 9th chord, and a S-U-S, it's"
+    },
+    {
+      "start": 58.1,
+      "end": 65.54,
+      "text": "a suspended chord. Later on, I will show you how to build those chords on the keyboard."
+    },
+    {
+      "start": 65.54,
+      "end": 70.04,
+      "text": "If you play the guitar, you can look them up in a guitar chord book."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539419588"
 }

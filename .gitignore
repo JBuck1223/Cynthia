@@ -22,4 +22,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 /tmp-transcripts
+/models
 supabase/.temp/

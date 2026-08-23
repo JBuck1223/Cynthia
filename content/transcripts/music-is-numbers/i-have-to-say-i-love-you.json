@@ -1,5 +1,512 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539420038/cb60680418"
+  "text": "Let's use the number system with this song. I have to say I love you in a song. This one is a little bit more challenging by Jim Croci. First, let's listen to the song. Well, I knew it's kind of late. I hope I didn't wake you. Then what I've got to say can't wait. I knew you'd understand. Here at time I tried to tell you the words just came out wrong. Even though it's kind of strange, every time I'm near you, I just run out of things to say. Though you'd understand, every time I tried to tell you the words just came out wrong. So I had to say I love you in a song. Yeah, I know it's kind of late, I hope I didn't wake you. But there's something that I just got to say, who you'd understand, every time I tried to tell you the words just came out wrong. So I had to say I love you in a song. Now let's make up a chart. The first thing you want to do is look at the key signature. Three sharps means we are playing in the key of A. I suggest you write A, B, C#, D, E, F#, G#. And under each letter, write 1, 2, 3, 4, 5, 6, 7. Starting to take note of, you can see that the seventh note of the A scale is G#. If you were to see just the chord G, you would call that a seven flat, because G is one half step lower than the natural tone of that scale, which is G#. It doesn't happen in this song, but sometimes it does. The four over four means that there are four counts to every measure, and the quarter note gets one count. In the first measure, you can see there are two eighth notes. And then you see four quarter notes. So the timing on that will be, and a 1, 2, 3, 4, and then a whole note is 1, 2, 3, 4. Make four columns with four rows. In this song, the top eight bars will be the verse, and the bottom eight bars will be your chorus. Each square will represent one measure. In the first measure, you will write one major seven, because A is the one of the A scale. And I like to put three slashes under that, because you can see there's three counts. And then on the last count, you will play a 1, 6. The next measure is C# minor seventh, there you will write three minor seven, because C# is the third note of the A scale. The next measure, you will write two minor seven, because B is the two note of the A scale. The next measure, you will write five seven, because E is the fifth note of the A scale. Now you'll go down to the next row, because we're on the fifth measure, and it repeats just like the first measure. You will write one major seven, with two slashes, and the one six will play on the remaining two notes of that measure. Once a quarter note and two eighth notes is one, two and, and then the next quarter notes are one, two. So it's a little bit different than the first. The next measure will say three minor seven. The next measure will say two minor seven. And the final measure of the verse is the five seven. Like the word verse beside these eight bars. What you have so far should look something like this. Now, let's fill in the next eight bars. This is the chorus, so I suggest you write the word chorus by these eight bars. The first measure will be a four, because D is the fourth note of the A scale. The next measure, you will write a four sharp diminished, because D is the fourth note of the A scale. The next measure will be a three minor seven. The next measure will be a six minor, because F sharp is the sixth note of the A scale, with two slashes, and then a four, because D is the fourth note of the A scale. The half note under the F sharp minor that you see gets a two point value, so you'll put two slashes there. We go back to the one on the next measure. We go to the five seven on the next measure. Then we go to the four on the next measure, G is the fourth note of the A scale. And on the next measure, we will do one, then five seven, again two slashes under the one, because the half note has a two count value. See where the bar is, it says one and two, that means first and second ending. Now look at the colon with the double line. This is a repeat sign. Find the colon at the beginning of the song, and then play the second ending. After you play the second ending, you will go back up, and this time it looks like the third time around, it's an instrumental. When you're finished with that instrumental, you go to the third ending. Then you go on to the fourth verse, where it says four, and then it says, yeah, I know it's kind of late. When you're finished with that, you will go up to the little squiggle where it says chorus, and you will play that. And when you come to, I love you in A, you go to the fourth ending, and there you can see the finnae, that means the song is finished. It's not as complicated as the sheet music. All you need to do is put the colon signs down, no one to play the verse, and no one to play the chorus. That is up to the arranger or band leader. Your chart should look something like this. Now let's listen to the song again. I know you don't just stay here, every time I try to tell you the words just keep out raw. So I have to say, we love you in a song, in the way it's kind of strange. Every time I'm near you, I just wrote out a thing to say. I know you don't just stay here, every time I try to tell you the words just keep out raw. So I have to say, we love you in a song, in the way it's kind of strange. Every time I'm near you, I just wrote out a song, in the way it's kind of strange. I know you don't just stay here, every time I try to tell you the words just keep out raw. So I have to say, we love you in a song. I know you don't just stay here, every time I try to tell you the words just keep out raw. So I have to say, we love you in a song. I know you don't just stay here, every time I try to tell you the words just keep out raw.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 8.84,
+      "text": "Let's use the number system with this song."
+    },
+    {
+      "start": 8.84,
+      "end": 13,
+      "text": "I have to say I love you in a song."
+    },
+    {
+      "start": 13,
+      "end": 17.84,
+      "text": "This one is a little bit more challenging by Jim Croci."
+    },
+    {
+      "start": 17.84,
+      "end": 34.92,
+      "text": "First, let's listen to the song."
+    },
+    {
+      "start": 34.92,
+      "end": 51,
+      "text": "Well, I knew it's kind of late."
+    },
+    {
+      "start": 51,
+      "end": 55.04,
+      "text": "I hope I didn't wake you."
+    },
+    {
+      "start": 55.04,
+      "end": 58.04,
+      "text": "Then what I've got to say can't wait."
+    },
+    {
+      "start": 58.04,
+      "end": 59.04,
+      "text": "I knew you'd understand."
+    },
+    {
+      "start": 59.04,
+      "end": 61.04,
+      "text": "Here at time I tried to tell you the words just came out wrong."
+    },
+    {
+      "start": 61.04,
+      "end": 73.4,
+      "text": "Even though it's kind of strange, every time I'm near you, I just run out of things to say."
+    },
+    {
+      "start": 73.4,
+      "end": 83.84,
+      "text": "Though you'd understand, every time I tried to tell you the words just came out wrong."
+    },
+    {
+      "start": 83.84,
+      "end": 98.72,
+      "text": "So I had to say I love you in a song."
+    },
+    {
+      "start": 98.72,
+      "end": 125.68,
+      "text": "Yeah, I know it's kind of late, I hope I didn't wake you."
+    },
+    {
+      "start": 125.68,
+      "end": 141.28,
+      "text": "But there's something that I just got to say, who you'd understand, every time I tried to tell you the words just came out wrong."
+    },
+    {
+      "start": 141.28,
+      "end": 147.88,
+      "text": "So I had to say I love you in a song."
+    },
+    {
+      "start": 147.88,
+      "end": 173.8,
+      "text": "Now let's make up a chart."
+    },
+    {
+      "start": 173.8,
+      "end": 179.04,
+      "text": "The first thing you want to do is look at the key signature."
+    },
+    {
+      "start": 179.04,
+      "end": 192.68,
+      "text": "Three sharps means we are playing in the key of A. I suggest you write A, B, C#, D, E, F#, G#."
+    },
+    {
+      "start": 192.68,
+      "end": 198.32,
+      "text": "And under each letter, write 1, 2, 3, 4, 5, 6, 7."
+    },
+    {
+      "start": 198.32,
+      "end": 206.48,
+      "text": "Starting to take note of, you can see that the seventh note of the A scale is G#."
+    },
+    {
+      "start": 206.48,
+      "end": 217.08,
+      "text": "If you were to see just the chord G, you would call that a seven flat, because G is one half"
+    },
+    {
+      "start": 217.08,
+      "end": 223.84,
+      "text": "step lower than the natural tone of that scale, which is G#."
+    },
+    {
+      "start": 223.84,
+      "end": 228.44,
+      "text": "It doesn't happen in this song, but sometimes it does."
+    },
+    {
+      "start": 228.44,
+      "end": 235.12,
+      "text": "The four over four means that there are four counts to every measure, and the quarter note"
+    },
+    {
+      "start": 235.12,
+      "end": 237.12,
+      "text": "gets one count."
+    },
+    {
+      "start": 237.12,
+      "end": 241.86,
+      "text": "In the first measure, you can see there are two eighth notes."
+    },
+    {
+      "start": 241.86,
+      "end": 246,
+      "text": "And then you see four quarter notes."
+    },
+    {
+      "start": 246,
+      "end": 256.44,
+      "text": "So the timing on that will be, and a 1, 2, 3, 4, and then a whole note is 1, 2, 3, 4."
+    },
+    {
+      "start": 256.44,
+      "end": 259.6,
+      "text": "Make four columns with four rows."
+    },
+    {
+      "start": 259.6,
+      "end": 265.74,
+      "text": "In this song, the top eight bars will be the verse, and the bottom eight bars will be your"
+    },
+    {
+      "start": 265.74,
+      "end": 267.36,
+      "text": "chorus."
+    },
+    {
+      "start": 267.36,
+      "end": 271.08,
+      "text": "Each square will represent one measure."
+    },
+    {
+      "start": 271.08,
+      "end": 281.92,
+      "text": "In the first measure, you will write one major seven, because A is the one of the A scale."
+    },
+    {
+      "start": 281.92,
+      "end": 287.32,
+      "text": "And I like to put three slashes under that, because you can see there's three counts."
+    },
+    {
+      "start": 287.32,
+      "end": 292.52,
+      "text": "And then on the last count, you will play a 1, 6."
+    },
+    {
+      "start": 292.52,
+      "end": 302.52,
+      "text": "The next measure is C# minor seventh, there you will write three minor seven, because C#"
+    },
+    {
+      "start": 302.52,
+      "end": 305.92,
+      "text": "is the third note of the A scale."
+    },
+    {
+      "start": 305.92,
+      "end": 314.52,
+      "text": "The next measure, you will write two minor seven, because B is the two note of the A scale."
+    },
+    {
+      "start": 314.52,
+      "end": 321.88,
+      "text": "The next measure, you will write five seven, because E is the fifth note of the A scale."
+    },
+    {
+      "start": 321.88,
+      "end": 329.72,
+      "text": "Now you'll go down to the next row, because we're on the fifth measure, and it repeats"
+    },
+    {
+      "start": 329.72,
+      "end": 331.72,
+      "text": "just like the first measure."
+    },
+    {
+      "start": 331.72,
+      "end": 343.56,
+      "text": "You will write one major seven, with two slashes, and the one six will play on the remaining"
+    },
+    {
+      "start": 343.56,
+      "end": 347.44,
+      "text": "two notes of that measure."
+    },
+    {
+      "start": 347.44,
+      "end": 354.68,
+      "text": "Once a quarter note and two eighth notes is one, two and, and then the next quarter notes"
+    },
+    {
+      "start": 354.68,
+      "end": 357.64,
+      "text": "are one, two."
+    },
+    {
+      "start": 357.64,
+      "end": 362.12,
+      "text": "So it's a little bit different than the first."
+    },
+    {
+      "start": 362.12,
+      "end": 366.76,
+      "text": "The next measure will say three minor seven."
+    },
+    {
+      "start": 366.76,
+      "end": 371.68,
+      "text": "The next measure will say two minor seven."
+    },
+    {
+      "start": 371.68,
+      "end": 376.56,
+      "text": "And the final measure of the verse is the five seven."
+    },
+    {
+      "start": 376.56,
+      "end": 380.96,
+      "text": "Like the word verse beside these eight bars."
+    },
+    {
+      "start": 380.96,
+      "end": 383.8,
+      "text": "What you have so far should look something like this."
+    },
+    {
+      "start": 406.56,
+      "end": 414.24,
+      "text": "Now, let's fill in the next eight bars."
+    },
+    {
+      "start": 414.24,
+      "end": 419.96,
+      "text": "This is the chorus, so I suggest you write the word chorus by these eight bars."
+    },
+    {
+      "start": 419.96,
+      "end": 428.84,
+      "text": "The first measure will be a four, because D is the fourth note of the A scale."
+    },
+    {
+      "start": 428.84,
+      "end": 439.08,
+      "text": "The next measure, you will write a four sharp diminished, because D is the fourth note of"
+    },
+    {
+      "start": 439.08,
+      "end": 441.54,
+      "text": "the A scale."
+    },
+    {
+      "start": 441.54,
+      "end": 445.8,
+      "text": "The next measure will be a three minor seven."
+    },
+    {
+      "start": 445.8,
+      "end": 454.64,
+      "text": "The next measure will be a six minor, because F sharp is the sixth note of the A scale,"
+    },
+    {
+      "start": 454.64,
+      "end": 464.24,
+      "text": "with two slashes, and then a four, because D is the fourth note of the A scale."
+    },
+    {
+      "start": 464.24,
+      "end": 469.78,
+      "text": "The half note under the F sharp minor that you see gets a two point value, so you'll"
+    },
+    {
+      "start": 469.78,
+      "end": 474.76,
+      "text": "put two slashes there."
+    },
+    {
+      "start": 474.76,
+      "end": 480.52,
+      "text": "We go back to the one on the next measure."
+    },
+    {
+      "start": 480.52,
+      "end": 487,
+      "text": "We go to the five seven on the next measure."
+    },
+    {
+      "start": 487,
+      "end": 492.6,
+      "text": "Then we go to the four on the next measure, G is the fourth note of the A scale."
+    },
+    {
+      "start": 492.6,
+      "end": 500.92,
+      "text": "And on the next measure, we will do one, then five seven, again two slashes under the one,"
+    },
+    {
+      "start": 500.92,
+      "end": 504.8,
+      "text": "because the half note has a two count value."
+    },
+    {
+      "start": 504.8,
+      "end": 511.56,
+      "text": "See where the bar is, it says one and two, that means first and second ending."
+    },
+    {
+      "start": 511.56,
+      "end": 514.2,
+      "text": "Now look at the colon with the double line."
+    },
+    {
+      "start": 514.2,
+      "end": 516.2,
+      "text": "This is a repeat sign."
+    },
+    {
+      "start": 516.2,
+      "end": 521.32,
+      "text": "Find the colon at the beginning of the song, and then play the second ending."
+    },
+    {
+      "start": 521.32,
+      "end": 527.52,
+      "text": "After you play the second ending, you will go back up, and this time it looks like the"
+    },
+    {
+      "start": 527.52,
+      "end": 531.52,
+      "text": "third time around, it's an instrumental."
+    },
+    {
+      "start": 531.52,
+      "end": 535.96,
+      "text": "When you're finished with that instrumental, you go to the third ending."
+    },
+    {
+      "start": 535.96,
+      "end": 541.16,
+      "text": "Then you go on to the fourth verse, where it says four, and then it says, yeah, I know"
+    },
+    {
+      "start": 541.16,
+      "end": 543.88,
+      "text": "it's kind of late."
+    },
+    {
+      "start": 543.88,
+      "end": 552.84,
+      "text": "When you're finished with that, you will go up to the little squiggle where it says chorus,"
+    },
+    {
+      "start": 552.84,
+      "end": 554.72,
+      "text": "and you will play that."
+    },
+    {
+      "start": 554.72,
+      "end": 563.88,
+      "text": "And when you come to, I love you in A, you go to the fourth ending, and there you can"
+    },
+    {
+      "start": 563.88,
+      "end": 568.08,
+      "text": "see the finnae, that means the song is finished."
+    },
+    {
+      "start": 568.08,
+      "end": 571.12,
+      "text": "It's not as complicated as the sheet music."
+    },
+    {
+      "start": 571.12,
+      "end": 576.86,
+      "text": "All you need to do is put the colon signs down, no one to play the verse, and no one"
+    },
+    {
+      "start": 576.86,
+      "end": 579,
+      "text": "to play the chorus."
+    },
+    {
+      "start": 579,
+      "end": 583.44,
+      "text": "That is up to the arranger or band leader."
+    },
+    {
+      "start": 583.44,
+      "end": 586.8,
+      "text": "Your chart should look something like this."
+    },
+    {
+      "start": 586.8,
+      "end": 613.76,
+      "text": "Now let's listen to the song again."
+    },
+    {
+      "start": 613.76,
+      "end": 625.24,
+      "text": "I know you don't just stay here, every time I try to tell you the words just keep out"
+    },
+    {
+      "start": 625.24,
+      "end": 626.24,
+      "text": "raw."
+    },
+    {
+      "start": 626.24,
+      "end": 635.88,
+      "text": "So I have to say, we love you in a song, in the way it's kind of strange."
+    },
+    {
+      "start": 635.88,
+      "end": 643.08,
+      "text": "Every time I'm near you, I just wrote out a thing to say."
+    },
+    {
+      "start": 643.08,
+      "end": 653.52,
+      "text": "I know you don't just stay here, every time I try to tell you the words just keep out"
+    },
+    {
+      "start": 653.52,
+      "end": 654.52,
+      "text": "raw."
+    },
+    {
+      "start": 654.52,
+      "end": 677.12,
+      "text": "So I have to say, we love you in a song, in the way it's kind of strange."
+    },
+    {
+      "start": 677.12,
+      "end": 693,
+      "text": "Every time I'm near you, I just wrote out a song, in the way it's kind of strange."
+    },
+    {
+      "start": 693,
+      "end": 701.28,
+      "text": "I know you don't just stay here, every time I try to tell you the words just keep out"
+    },
+    {
+      "start": 701.28,
+      "end": 702.28,
+      "text": "raw."
+    },
+    {
+      "start": 702.28,
+      "end": 709.72,
+      "text": "So I have to say, we love you in a song."
+    },
+    {
+      "start": 709.72,
+      "end": 714.64,
+      "text": "I know you don't just stay here, every time I try to tell you the words just keep out"
+    },
+    {
+      "start": 714.64,
+      "end": 715.64,
+      "text": "raw."
+    },
+    {
+      "start": 715.64,
+      "end": 723.6,
+      "text": "So I have to say, we love you in a song."
+    },
+    {
+      "start": 723.6,
+      "end": 738.96,
+      "text": "I know you don't just stay here, every time I try to tell you the words just keep out"
+    },
+    {
+      "start": 738.96,
+      "end": 739.96,
+      "text": "raw."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539420038"
 }

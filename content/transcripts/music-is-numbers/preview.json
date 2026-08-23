@@ -1,5 +1,67 @@
 {
-  "text": "",
-  "source": "pending",
+  "text": "Hi my name is Cindy Jordan and I am a composer and songwriter. I started my career with the very first song I ever wrote that actually became the number one country music song of the year in Billboard magazine in 1983. Maybe you've heard it. Now wait a minute things don't look too familiar. Who is this cowboy who's sleeping beside me. He's off the cube but how that can't get shirt on. I had too much to keep the last night. Oh, say quimbo you are a friend of mine. I'd like to drink you with a little soft and light. Did I kiss all the cowboys? Did I shoot out the lights? Did I dance on the bar? Did I start a fight? When you put a group of musicians together and all they see is numbers on the paper, magic can happen. Listen to what happened when I put this group of musicians together playing the one four five chords. We were drilling old back in 23. Big Lake Texas was the place to be. Some bankers, investors, a couple of nuns, funded a well back in 21. 18 months five feet a day. The Santa Rita well finally made the pay. They did the Santa Rita boogie. They did the Santa Rita boogie. They did the Santa Rita boogie and the boogie boogie all night long. Here is a sample of what I'm going to show you. Thank you for signing up for the Music Is Numbers course. [Music]",
+  "cues": [
+    {
+      "start": 0,
+      "end": 14.28,
+      "text": "Hi my name is Cindy Jordan and I am a composer and songwriter. I started my"
+    },
+    {
+      "start": 14.28,
+      "end": 19.72,
+      "text": "career with the very first song I ever wrote that actually became the number one"
+    },
+    {
+      "start": 19.72,
+      "end": 25.96,
+      "text": "country music song of the year in Billboard magazine in 1983. Maybe you've"
+    },
+    {
+      "start": 25.96,
+      "end": 38,
+      "text": "heard it. Now wait a minute things don't look too familiar. Who is this cowboy who's"
+    },
+    {
+      "start": 38,
+      "end": 55.92,
+      "text": "sleeping beside me. He's off the cube but how that can't get shirt on. I had too much to keep the last night. Oh, say quimbo you are a friend of mine. I'd like to drink you with a little soft and light."
+    },
+    {
+      "start": 55.92,
+      "end": 65.92,
+      "text": "Did I kiss all the cowboys? Did I shoot out the lights? Did I dance on the bar? Did I start a fight?"
+    },
+    {
+      "start": 71.92,
+      "end": 80.92,
+      "text": "When you put a group of musicians together and all they see is numbers on the paper, magic can happen."
+    },
+    {
+      "start": 80.92,
+      "end": 90.92,
+      "text": "Listen to what happened when I put this group of musicians together playing the one four five chords."
+    },
+    {
+      "start": 111.92,
+      "end": 137.92,
+      "text": "We were drilling old back in 23. Big Lake Texas was the place to be. Some bankers, investors, a couple of nuns, funded a well back in 21. 18 months five feet a day. The Santa Rita well finally made the pay. They did the Santa Rita boogie."
+    },
+    {
+      "start": 137.92,
+      "end": 149.92,
+      "text": "They did the Santa Rita boogie. They did the Santa Rita boogie and the boogie boogie all night long."
+    },
+    {
+      "start": 149.92,
+      "end": 157.92,
+      "text": "Here is a sample of what I'm going to show you. Thank you for signing up for the Music Is Numbers course."
+    },
+    {
+      "start": 167.92,
+      "end": 172.92,
+      "text": "[Music]"
+    }
+  ],
+  "source": "whisper",
   "url": "https://vimeo.com/539415272"
 }

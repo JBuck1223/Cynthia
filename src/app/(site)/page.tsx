@@ -2,12 +2,13 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { FadeIn } from '@/components/site/FadeIn'
 import { BuyButton } from '@/components/site/BuyButton'
-import { SITE, books, bundle, courses, formatPrice } from '@/lib/catalog'
+import { SiteNav } from '@/components/site/Header'
+import { SITE, bundle, courses, formatPrice } from '@/lib/catalog'
 
 export default function HomePage() {
   return (
     <main>
-      <section className="relative min-h-[92vh] overflow-hidden bg-horizon">
+      <header className="relative min-h-screen overflow-hidden bg-horizon">
         <Image
           src="/images/cynthia/hero.jpg"
           alt="Cynthia Jordan with guitar on the Sarasota shore"
@@ -15,64 +16,118 @@ export default function HomePage() {
           priority
           className="object-cover object-[70%_center]"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-horizon/80 via-horizon/45 to-transparent" />
-        <div className="relative z-10 mx-auto flex min-h-[92vh] max-w-6xl items-end px-5 pb-16 pt-28 md:items-center md:pb-24">
-          <FadeIn className="max-w-xl text-foam">
-            <p className="text-xs uppercase tracking-[0.32em] text-foam/70">{SITE.city}</p>
-            <h1 className="font-display mt-4 text-5xl leading-[1.05] md:text-7xl">
-              Play together.
-              <br />
-              Write songs together.
-            </h1>
-            <p className="mt-6 max-w-md text-lg text-foam/85">
-              {SITE.promise} Cynthia Jordan — writer of the #1 country song <em>José Cuervo</em> — teaches the
-              numbers behind the music.
-            </p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <BuyButton sku={bundle.sku} label={`Family bundle · ${formatPrice(bundle.priceCents)}`} />
-              <Link
-                href="/courses"
-                className="inline-flex items-center rounded-full border border-foam/40 px-5 py-2.5 text-sm text-foam hover:bg-foam/10"
-              >
-                See the courses
-              </Link>
+        <div className="absolute inset-0 bg-gradient-to-r from-horizon/70 via-horizon/35 to-transparent" />
+        <div className="relative z-10 flex min-h-screen flex-col">
+          <SiteNav light />
+          <div className="mx-auto flex w-full max-w-site flex-1 items-end px-6 pb-16 md:items-center md:pb-24 lg:px-10">
+            <FadeIn className="max-w-2xl text-foam">
+              <p className="inline-flex rounded-full bg-foam/15 px-4 py-2 text-base font-semibold text-foam backdrop-blur-sm">
+                {SITE.city}
+              </p>
+              <h1 className="font-display mt-6 text-5xl leading-[1.05] md:text-7xl">
+                Play together.
+                <br />
+                Write songs together.
+              </h1>
+              <p className="mt-6 max-w-xl text-2xl leading-relaxed text-foam/90">
+                {SITE.promise} Cynthia Jordan — writer of the #1 country song <em>José Cuervo</em> — teaches
+                the numbers behind the music.
+              </p>
+              <div className="mt-9 flex flex-wrap gap-4">
+                <BuyButton sku={bundle.sku} label={`Family bundle · ${formatPrice(bundle.priceCents)}`} />
+                <Link
+                  href="/courses"
+                  className="btn border border-foam/50 bg-foam/10 text-foam backdrop-blur-sm hover:bg-foam/20"
+                >
+                  See the courses
+                </Link>
+              </div>
+            </FadeIn>
+          </div>
+        </div>
+      </header>
+
+      <section className="mx-auto max-w-site px-6 py-16 md:py-20 lg:px-10">
+        <p className="kicker">Learn piano</p>
+        <h2 className="font-display mt-5 text-5xl text-horizon md:text-6xl">Three courses. One family piano.</h2>
+        <p className="mt-5 max-w-2xl text-2xl text-muted">
+          $97 each, or the bundle for {formatPrice(bundle.priceCents)} — save {formatPrice(bundle.savingsCents)}.
+          Watch a free preview on every course.
+        </p>
+
+        <div className="card mt-12 overflow-hidden md:grid md:grid-cols-[280px_1fr]">
+          <Image
+            src="/images/courses/piano-bundle.jpg"
+            alt={bundle.title}
+            width={560}
+            height={420}
+            className="aspect-[4/3] w-full object-cover md:aspect-auto md:h-full"
+          />
+          <div className="flex flex-col justify-center gap-6 p-7 md:flex-row md:items-center md:justify-between md:p-9">
+            <div>
+              <h3 className="font-display text-3xl text-horizon">{bundle.title}</h3>
+              <p className="mt-2 max-w-xl text-xl text-muted">{bundle.description}</p>
             </div>
-          </FadeIn>
+            <BuyButton sku={bundle.sku} label={`Bundle · ${formatPrice(bundle.priceCents)}`} />
+          </div>
+        </div>
+
+        <div className="mt-12 grid gap-7 md:grid-cols-3">
+          {courses.map((course) => (
+            <Link key={course.slug} href={`/courses/${course.slug}`} className="card card-hover group block">
+              <Image
+                src={course.cover}
+                alt={course.title}
+                width={800}
+                height={500}
+                className="aspect-[4/3] w-full object-cover"
+              />
+              <div className="p-6">
+                <h3 className="font-display text-2xl text-horizon md:text-3xl">{course.title}</h3>
+                <p className="mt-2 text-xl text-muted">{course.tagline}</p>
+                <p className="mt-4 text-lg font-semibold text-gulf-deep">
+                  {formatPrice(course.priceCents)} · {course.lessons.length} lessons
+                </p>
+              </div>
+            </Link>
+          ))}
         </div>
       </section>
 
-      <section className="bg-foam py-20 md:py-28">
-        <div className="mx-auto grid max-w-6xl items-center gap-12 px-5 md:grid-cols-2">
+      <section className="px-6 py-16 md:py-24 lg:px-10">
+        <div className="card mx-auto grid max-w-site items-center gap-10 p-6 md:grid-cols-2 md:gap-14 md:p-10">
           <FadeIn>
             <Image
               src="/images/cynthia/portrait.jpg"
               alt="Cynthia Jordan"
               width={800}
               height={1100}
-              className="w-full object-cover"
+              className="w-full rounded-[2rem] object-cover"
             />
           </FadeIn>
           <FadeIn delay={80}>
-            <p className="text-xs uppercase tracking-[0.28em] text-gulf">The teacher</p>
-            <h2 className="font-display mt-3 text-4xl text-horizon md:text-5xl">Cynthia Jordan</h2>
-            <p className="mt-5 text-lg leading-relaxed text-muted">
+            <p className="kicker">The teacher</p>
+            <h2 className="font-display mt-5 text-4xl text-horizon md:text-5xl">Cynthia Jordan</h2>
+            <p className="mt-6 text-2xl leading-relaxed text-muted">
               Billboard #1 songwriter. Piano teacher. Grandparent who still sits at the bench. The method is
               letters, numbers, and patterns — so a child and an adult can learn the same song the same night.
             </p>
-            <p className="mt-4 text-lg leading-relaxed text-muted">
+            <p className="mt-4 text-2xl leading-relaxed text-muted">
               These courses were filmed for families in Sarasota and anywhere a piano lives.
             </p>
           </FadeIn>
         </div>
       </section>
 
-      <section className="bg-sand py-20 md:py-28">
-        <div className="mx-auto max-w-6xl px-5">
+      <section className="px-6 py-8 md:py-16 lg:px-10">
+        <div className="mx-auto max-w-site">
           <FadeIn className="max-w-2xl">
-            <p className="text-xs uppercase tracking-[0.28em] text-gulf">Who it is for</p>
-            <h2 className="font-display mt-3 text-4xl text-horizon">Kids, adults, grandparents. One bench.</h2>
+            <p className="kicker">Who it is for</p>
+            <h2 className="font-display mt-5 text-4xl text-horizon md:text-5xl">
+              Kids, adults, grandparents. One bench.
+            </h2>
           </FadeIn>
-          <div className="mt-14 grid gap-10 md:grid-cols-3">
+          <div className="mt-12 grid gap-7 md:grid-cols-3">
             {[
               {
                 photo: '/images/cynthia/teach.jpg',
@@ -90,108 +145,43 @@ export default function HomePage() {
                 body: 'Music is Numbers is how Cynthia composes. You leave able to write, not just copy.',
               },
             ].map((item, i) => (
-              <FadeIn key={item.title} delay={i * 80}>
+              <FadeIn key={item.title} delay={i * 80} className="card card-hover">
                 <Image
                   src={item.photo}
                   alt=""
                   width={700}
                   height={900}
-                  className="aspect-[3/4] w-full object-cover"
+                  className="aspect-[4/5] w-full object-cover"
                 />
-                <h3 className="font-display mt-5 text-2xl text-horizon">{item.title}</h3>
-                <p className="mt-2 text-sm leading-relaxed text-muted">{item.body}</p>
+                <div className="p-6">
+                  <h3 className="font-display text-2xl text-horizon md:text-3xl">{item.title}</h3>
+                  <p className="mt-3 text-xl leading-relaxed text-muted">{item.body}</p>
+                </div>
               </FadeIn>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="bg-foam py-20 md:py-28">
-        <div className="mx-auto max-w-6xl px-5">
-          <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
-            <FadeIn>
-              <p className="text-xs uppercase tracking-[0.28em] text-gulf">Video courses</p>
-              <h2 className="font-display mt-3 text-4xl text-horizon">$97 each. Bundle $197.</h2>
-            </FadeIn>
-            <FadeIn>
-              <BuyButton sku={bundle.sku} label={`Bundle · save ${formatPrice(bundle.savingsCents)}`} />
-            </FadeIn>
-          </div>
-          <div className="mt-12 grid gap-8 md:grid-cols-3">
-            {courses.map((course, i) => (
-              <FadeIn key={course.slug} delay={i * 80}>
-                <Link href={`/courses/${course.slug}`} className="group block">
-                  <Image
-                    src={course.cover}
-                    alt={course.title}
-                    width={800}
-                    height={500}
-                    className="aspect-[4/3] w-full object-cover transition-opacity group-hover:opacity-90"
-                  />
-                  <p className="mt-4 text-xs uppercase tracking-widest text-gulf">{course.who}</p>
-                  <h3 className="font-display mt-1 text-2xl text-horizon">{course.title}</h3>
-                  <p className="mt-1 text-sm text-muted">{course.tagline}</p>
-                  <p className="mt-3 text-sm text-gulf-deep">{formatPrice(course.priceCents)}</p>
-                </Link>
-              </FadeIn>
-            ))}
+      <section className="px-6 py-8 md:py-12 lg:px-10">
+        <div className="relative mx-auto max-w-site overflow-hidden rounded-[2.25rem] bg-gulf-deep px-6 py-16 text-center text-foam md:px-16 md:py-20">
+          <Image src="/images/cynthia/sunset.jpg" alt="" fill className="object-cover opacity-35" />
+          <div className="absolute inset-0 bg-gradient-to-br from-gulf-deep/70 via-gulf/50 to-coral/40" />
+          <div className="relative z-10 mx-auto max-w-3xl">
+            <p className="inline-flex rounded-full bg-foam/20 px-4 py-2 text-base font-semibold text-foam">
+              {SITE.city.split(',')[0]}
+            </p>
+            <h2 className="font-display mt-6 text-4xl md:text-6xl">{SITE.tagline}</h2>
+            <p className="mt-5 text-2xl text-foam/90">
+              All three courses, both workbooks, one price. Sit down tonight.
+            </p>
+            <div className="mt-9">
+              <BuyButton sku={bundle.sku} label={`Get the family bundle · ${formatPrice(bundle.priceCents)}`} />
+            </div>
           </div>
         </div>
       </section>
 
-      <section className="relative overflow-hidden bg-horizon py-28">
-        <Image
-          src="/images/cynthia/sunset.jpg"
-          alt=""
-          fill
-          className="object-cover opacity-50"
-        />
-        <div className="absolute inset-0 bg-horizon/40" />
-        <div className="relative z-10 mx-auto max-w-3xl px-5 text-center text-foam">
-          <p className="text-xs uppercase tracking-[0.32em] text-foam/70">Sarasota</p>
-          <h2 className="font-display mt-4 text-4xl md:text-5xl">{SITE.tagline}</h2>
-          <p className="mt-4 text-lg text-foam/80">
-            All three courses, both workbooks, one price. Sit down tonight.
-          </p>
-          <div className="mt-8">
-            <BuyButton sku={bundle.sku} label={`Get the family bundle · ${formatPrice(bundle.priceCents)}`} />
-          </div>
-        </div>
-      </section>
-
-      <section className="bg-sand py-20 md:py-28">
-        <div className="mx-auto max-w-6xl px-5">
-          <FadeIn>
-            <p className="text-xs uppercase tracking-[0.28em] text-gulf">Books</p>
-            <h2 className="font-display mt-3 text-4xl text-horizon">On the bench. On Amazon.</h2>
-          </FadeIn>
-          <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
-            {books.map((book, i) => (
-              <FadeIn key={book.slug} delay={i * 60}>
-                <Link href="/books" className="block">
-                  {book.cover ? (
-                    <Image
-                      src={book.cover}
-                      alt={book.title}
-                      width={600}
-                      height={800}
-                      className="aspect-[3/4] w-full object-cover object-top"
-                    />
-                  ) : (
-                    <div className="flex aspect-[3/4] items-end bg-sky p-5">
-                      <p className="font-display text-xl text-gulf-deep">{book.title}</p>
-                    </div>
-                  )}
-                  <h3 className="font-display mt-4 text-lg text-horizon">{book.title}</h3>
-                  <p className="mt-1 text-xs text-muted">
-                    {book.kind === 'pdf' ? 'PDF with the matching course' : 'Paperback on Amazon'}
-                  </p>
-                </Link>
-              </FadeIn>
-            ))}
-          </div>
-        </div>
-      </section>
     </main>
   )
 }

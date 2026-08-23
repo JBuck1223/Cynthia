@@ -22,10 +22,18 @@ Public pages work without env. Checkout, studio login, and admin need Supabase +
 
 ## Transcripts
 
-Vimeo has no captions on these videos, and downloads are blocked without a Vimeo account token. `npm run transcripts` records every lesson URL. To fill transcripts later: add a Vimeo API token, or download audio from Vimeo’s owner dashboard and drop Whisper JSON into `content/transcripts/{course}/{lesson}.json`.
+These Vimeo lessons have no captions. The LMS reads JSON from `content/transcripts/{course}/{lesson}.json`.
 
-Embeds are domain-locked. In Vimeo, allow `localhost:3010` and `cynthiamusic.com`.
+Generate them with a Vimeo token that includes **video_files** (public + private too):
+
+```bash
+VIMEO_ACCESS_TOKEN=xxxxx npm run transcripts
+```
+
+That downloads each owner file and runs local Whisper into the JSON. Re-run with `--force` to replace existing text.
+
+Embeds are domain-locked. Allow `localhost`, `cynthiamusic.com`, and `www.cynthiamusic.com` (`npm run vimeo:allow-embeds`).
 
 ## Brand
 
-Sand `#F6F1E8`, foam white, gulf `#2B8A9E`, horizon navy `#14323C`, sunset coral for buy buttons. Fraunces + Source Sans 3.
+Foam white, pale aqua sky, gulf `#2BBCD0`, sunset coral `#FF7A5C` for buy buttons. Large type, large pill buttons, rounded cards. Fraunces + Source Sans 3.

@@ -7,8 +7,8 @@ export default function NotFound() {
     <>
       <Header />
       <main className="mx-auto max-w-lg px-5 py-24 text-center">
-        <h1 className="font-display text-4xl text-horizon">That page drifted out.</h1>
-        <Link href="/" className="mt-6 inline-block text-gulf">
+        <h1 className="font-display text-5xl text-horizon">That page drifted out.</h1>
+        <Link href="/" className="btn-secondary mt-8">
           Back to the sand
         </Link>
       </main>

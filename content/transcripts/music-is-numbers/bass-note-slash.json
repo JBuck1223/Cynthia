@@ -1,5 +1,42 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539419623/a4ffb7d0e9"
+  "text": "When you see a letter and a slash next to it and then another letter, the first letter tells you what chord to play, and the second letter tells you what note to play in the bass. So for instance, if you see an F, then a slash, then a C, that means you will play the F chord, but in the bass you will play a C. If you see a D, a slash, and an A, that means you will play the D major chord with an A bass. If you see an E minor, a slash, and a B, that means you will play the E minor chord with B in the bass.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 7.36,
+      "text": "When you see a letter and a slash next to it and then another letter,"
+    },
+    {
+      "start": 7.36,
+      "end": 10.72,
+      "text": "the first letter tells you what chord to play,"
+    },
+    {
+      "start": 10.72,
+      "end": 16.04,
+      "text": "and the second letter tells you what note to play in the bass."
+    },
+    {
+      "start": 16.04,
+      "end": 21.48,
+      "text": "So for instance, if you see an F, then a slash, then a C,"
+    },
+    {
+      "start": 21.48,
+      "end": 26.8,
+      "text": "that means you will play the F chord, but in the bass you will play a C."
+    },
+    {
+      "start": 26.8,
+      "end": 36.08,
+      "text": "If you see a D, a slash, and an A, that means you will play the D major chord with an A bass."
+    },
+    {
+      "start": 36.08,
+      "end": 47.24,
+      "text": "If you see an E minor, a slash, and a B, that means you will play the E minor chord with B in the bass."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539419623"
 }

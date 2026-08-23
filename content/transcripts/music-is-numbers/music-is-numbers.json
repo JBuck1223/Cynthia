@@ -1,5 +1,122 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539424160/3db798a614"
+  "text": "Now I'd like to share with you one of the most exciting days I ever had in the studio. These fine musicians came together and on a piece of paper, all they saw was one, four, and five. This is a song I wrote called \"The Santa Rita Boogie,\" one, four, and five. Enjoy, and thank you for taking this course. [music] We were drilling old back in '23, big lake Texas was the place to be. Some bankers, investors, a couple of nuns, bonded a well back in '21, 18 months, five feet a day. The Santa Rita well finally made the pay, they did the Santa Rita Boogie, they did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long. Day after day, from the made a tune, they all kept coming and it started a boom. They finally set a pipe to control the flow, Texas tea, the Santa Rita gold. It was named for a saint of impossible things. It's amazing what a little bit of faith can bring. They did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long. They did the Santa Rita Boogie, they did the Santa Rita Boogie, they did the Santa Rita Boogie, they did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long. People started coming in for miles around, San Angelo became an all-boom town. The cactus was built 14 stories high, the conch show river was the water supply. A college, a theater, saloons in the train, plenty of men, and all the girls came to do the Santa Rita Boogie. They did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long. They did the Santa Rita Boogie, they did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long. They did the Santa Rita Boogie, and they Boogie Boogieed all night long. [MUSIC]",
+  "cues": [
+    {
+      "start": 0,
+      "end": 7.02,
+      "text": "Now I'd like to share with you one of the most exciting days I ever had in the studio."
+    },
+    {
+      "start": 7.02,
+      "end": 18.9,
+      "text": "These fine musicians came together and on a piece of paper, all they saw was one, four, and five."
+    },
+    {
+      "start": 18.9,
+      "end": 26.8,
+      "text": "This is a song I wrote called \"The Santa Rita Boogie,\" one, four, and five."
+    },
+    {
+      "start": 26.8,
+      "end": 31.32,
+      "text": "Enjoy, and thank you for taking this course."
+    },
+    {
+      "start": 31.32,
+      "end": 54.24,
+      "text": "[music]"
+    },
+    {
+      "start": 54.24,
+      "end": 61.56,
+      "text": "We were drilling old back in '23, big lake Texas was the place to be."
+    },
+    {
+      "start": 61.56,
+      "end": 72.74,
+      "text": "Some bankers, investors, a couple of nuns, bonded a well back in '21, 18 months, five feet a day."
+    },
+    {
+      "start": 72.74,
+      "end": 83.44,
+      "text": "The Santa Rita well finally made the pay, they did the Santa Rita Boogie, they did the Santa Rita Boogie,"
+    },
+    {
+      "start": 83.44,
+      "end": 91.68,
+      "text": "they did the Santa Rita Boogie, and they Boogie Boogieed all night long."
+    },
+    {
+      "start": 91.68,
+      "end": 99.08,
+      "text": "Day after day, from the made a tune, they all kept coming and it started a boom."
+    },
+    {
+      "start": 99.08,
+      "end": 106.4,
+      "text": "They finally set a pipe to control the flow, Texas tea, the Santa Rita gold."
+    },
+    {
+      "start": 106.4,
+      "end": 110.08,
+      "text": "It was named for a saint of impossible things."
+    },
+    {
+      "start": 110.08,
+      "end": 113.64,
+      "text": "It's amazing what a little bit of faith can bring."
+    },
+    {
+      "start": 113.64,
+      "end": 127.08,
+      "text": "They did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long."
+    },
+    {
+      "start": 127.08,
+      "end": 155.08,
+      "text": "They did the Santa Rita Boogie, they did the Santa Rita Boogie, they did the Santa Rita Boogie,"
+    },
+    {
+      "start": 155.08,
+      "end": 167.08,
+      "text": "they did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long."
+    },
+    {
+      "start": 167.08,
+      "end": 174.08,
+      "text": "People started coming in for miles around, San Angelo became an all-boom town."
+    },
+    {
+      "start": 174.08,
+      "end": 182.08,
+      "text": "The cactus was built 14 stories high, the conch show river was the water supply."
+    },
+    {
+      "start": 182.08,
+      "end": 192.08,
+      "text": "A college, a theater, saloons in the train, plenty of men, and all the girls came to do the Santa Rita Boogie."
+    },
+    {
+      "start": 192.08,
+      "end": 204.08,
+      "text": "They did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long."
+    },
+    {
+      "start": 204.08,
+      "end": 219.08,
+      "text": "They did the Santa Rita Boogie, they did the Santa Rita Boogie, they did the Santa Rita Boogie, and they Boogie Boogieed all night long."
+    },
+    {
+      "start": 219.08,
+      "end": 240.08,
+      "text": "They did the Santa Rita Boogie, and they Boogie Boogieed all night long."
+    },
+    {
+      "start": 249.08,
+      "end": 259.08,
+      "text": "[MUSIC]"
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539424160"
 }

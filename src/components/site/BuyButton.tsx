@@ -16,7 +16,7 @@ export function BuyButton({
     <Link
       href={`/checkout?sku=${encodeURIComponent(sku)}`}
       className={cn(
-        'inline-flex items-center justify-center rounded-full bg-coral px-5 py-2.5 text-sm font-medium text-foam transition-colors hover:bg-coral-deep',
+        'btn bg-coral text-foam shadow-[0_16px_36px_-14px_rgba(255,122,92,0.95)] hover:bg-coral-deep',
         className,
       )}
     >

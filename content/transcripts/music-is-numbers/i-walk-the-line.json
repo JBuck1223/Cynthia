@@ -1,5 +1,217 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539419714/a04bffb889"
+  "text": "Before we get started, let's listen to the song. I keep a close watch on this heart of mine. I keep my eyes wide open all the time. I keep the ends up for the guided by, because you're mine. I woke the line. I chose this song from my country big fake book because there are some things about this song that are a little different than normal. Look at the first measure. When you see the C and a line through it, that means you are playing in cut time. That's one, two, one, two, one, two. The notes that are clear are half notes. The notes that are filled in are quarter notes. In two, four time, the half notes get one count and the quarter notes get half a count. A lot of people think the first chord of the song is the key that you're playing in. However, that's not always true. It's normally the last chord of the song. You can see that the last chord of the song is F. Let's look at the key signature. There is one flat. This means we are playing in the key of F. The first chord that we see is a C7. C is the fifth note of the F scale, telling us that this song starts with the five chord. You can see there is a five seven next to the C7. The next chord is the F, and F is the one. Then it goes back to the C, so we put a five, and then we go back to the one. On the last note of the next measure, the chord is an F7, so we write a one seven. The next chord is B flat. B flat is the fourth note of the F scale. As you can see up in the left hand corner, the F is the one. The B flat is the four, and the C is the five. Let's suppose your singer sings this song better in the key of C. This means every time you see a one, you'll play a C. Every time you see a four, you'll play the F, and every time you see the five, you'll play the G. Now let's listen to the song again. Listen for the chord changes. I keep a close watch on this heart of mine. For those of you who do not read music, where you see the bar and a one to four, and then at the end of that bar, you see a colon sign. That means you repeat from the colon sign, where you see the C7 at the very top. You see another colon sign, and you will repeat that four times. And on the last time that you play the song, it will be the fifth time. You can see that there's three more verses below. Just a little additional information for those of you who do not read music.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "Before we get started, let's listen to the song."
+    },
+    {
+      "start": 11,
+      "end": 16,
+      "text": "I keep a close watch on this heart of mine."
+    },
+    {
+      "start": 16,
+      "end": 21,
+      "text": "I keep my eyes wide open all the time."
+    },
+    {
+      "start": 21,
+      "end": 28,
+      "text": "I keep the ends up for the guided by, because you're mine."
+    },
+    {
+      "start": 28,
+      "end": 34,
+      "text": "I woke the line."
+    },
+    {
+      "start": 34,
+      "end": 44,
+      "text": "I chose this song from my country big fake book because there are some things about this song that are a little different than normal."
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "text": "Look at the first measure."
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "text": "When you see the C and a line through it, that means you are playing in cut time."
+    },
+    {
+      "start": 52,
+      "end": 55,
+      "text": "That's one, two, one, two, one, two."
+    },
+    {
+      "start": 55,
+      "end": 58,
+      "text": "The notes that are clear are half notes."
+    },
+    {
+      "start": 58,
+      "end": 62,
+      "text": "The notes that are filled in are quarter notes."
+    },
+    {
+      "start": 62,
+      "end": 69,
+      "text": "In two, four time, the half notes get one count and the quarter notes get half a count."
+    },
+    {
+      "start": 69,
+      "end": 74,
+      "text": "A lot of people think the first chord of the song is the key that you're playing in."
+    },
+    {
+      "start": 74,
+      "end": 77,
+      "text": "However, that's not always true."
+    },
+    {
+      "start": 77,
+      "end": 80,
+      "text": "It's normally the last chord of the song."
+    },
+    {
+      "start": 80,
+      "end": 84,
+      "text": "You can see that the last chord of the song is F."
+    },
+    {
+      "start": 84,
+      "end": 86,
+      "text": "Let's look at the key signature."
+    },
+    {
+      "start": 86,
+      "end": 88,
+      "text": "There is one flat."
+    },
+    {
+      "start": 88,
+      "end": 92,
+      "text": "This means we are playing in the key of F."
+    },
+    {
+      "start": 92,
+      "end": 96,
+      "text": "The first chord that we see is a C7."
+    },
+    {
+      "start": 96,
+      "end": 103,
+      "text": "C is the fifth note of the F scale, telling us that this song starts with the five chord."
+    },
+    {
+      "start": 103,
+      "end": 107,
+      "text": "You can see there is a five seven next to the C7."
+    },
+    {
+      "start": 107,
+      "end": 112,
+      "text": "The next chord is the F, and F is the one."
+    },
+    {
+      "start": 112,
+      "end": 118,
+      "text": "Then it goes back to the C, so we put a five, and then we go back to the one."
+    },
+    {
+      "start": 118,
+      "end": 125,
+      "text": "On the last note of the next measure, the chord is an F7, so we write a one seven."
+    },
+    {
+      "start": 125,
+      "end": 127,
+      "text": "The next chord is B flat."
+    },
+    {
+      "start": 127,
+      "end": 131,
+      "text": "B flat is the fourth note of the F scale."
+    },
+    {
+      "start": 131,
+      "end": 136,
+      "text": "As you can see up in the left hand corner, the F is the one."
+    },
+    {
+      "start": 136,
+      "end": 141,
+      "text": "The B flat is the four, and the C is the five."
+    },
+    {
+      "start": 141,
+      "end": 147,
+      "text": "Let's suppose your singer sings this song better in the key of C."
+    },
+    {
+      "start": 147,
+      "end": 153,
+      "text": "This means every time you see a one, you'll play a C."
+    },
+    {
+      "start": 153,
+      "end": 160,
+      "text": "Every time you see a four, you'll play the F, and every time you see the five, you'll play the G."
+    },
+    {
+      "start": 160,
+      "end": 164,
+      "text": "Now let's listen to the song again."
+    },
+    {
+      "start": 164,
+      "end": 166,
+      "text": "Listen for the chord changes."
+    },
+    {
+      "start": 166,
+      "end": 193,
+      "text": "I keep a close watch on this heart of mine."
+    },
+    {
+      "start": 193,
+      "end": 201,
+      "text": "For those of you who do not read music, where you see the bar and a one to four,"
+    },
+    {
+      "start": 201,
+      "end": 205,
+      "text": "and then at the end of that bar, you see a colon sign."
+    },
+    {
+      "start": 205,
+      "end": 213,
+      "text": "That means you repeat from the colon sign, where you see the C7 at the very top."
+    },
+    {
+      "start": 213,
+      "end": 217,
+      "text": "You see another colon sign, and you will repeat that four times."
+    },
+    {
+      "start": 217,
+      "end": 222,
+      "text": "And on the last time that you play the song, it will be the fifth time."
+    },
+    {
+      "start": 222,
+      "end": 225,
+      "text": "You can see that there's three more verses below."
+    },
+    {
+      "start": 225,
+      "end": 230,
+      "text": "Just a little additional information for those of you who do not read music."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539419714"
 }

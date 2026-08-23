@@ -1,5 +1,102 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539400829/539b15b9f3"
+  "text": "Here are some bass patterns you can start with. You can either play a single note, D, F, G. I recommend you do octaves. And when you get that muscle memory in your fingers, you can do a 1-5-1. It's called a 1-5-1 because in the scale of F, for instance, F, G, A, B, C is 5. Same with G, A, C, 1-5-1. Another chord pattern that I like to teach is the C chord with the F second inversion that's C, F, A, then move everything up one note, D, G, B. So C, F chord, you keep the C, then move everything up one, come down one. That works for a lot of songs, and then finally, just do a chord. That's a D chord, an A minor chord, an F. Another way you can play that is, so that's 5-3-1-3 with your fingers. 3-5-3-1-3, get those in your muscle memory. If it's a wall, you can do this. Start with those, get those in your muscle memory, and you'll find that you'll be able to play those kind of combinations in any key. For now, let's use just the A, the F, and the G, A, F, and G. You can play the octave, F, G. With those three chords in that order, you can make up all kinds of beautiful, beautiful patterns on the white keys in any order, because everything will work.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 9.7,
+      "text": "Here are some bass patterns you can start with."
+    },
+    {
+      "start": 9.7,
+      "end": 29.12,
+      "text": "You can either play a single note, D, F, G. I recommend you do octaves."
+    },
+    {
+      "start": 29.12,
+      "end": 38.52,
+      "text": "And when you get that muscle memory in your fingers, you can do a 1-5-1."
+    },
+    {
+      "start": 38.52,
+      "end": 50.76,
+      "text": "It's called a 1-5-1 because in the scale of F, for instance, F, G, A, B, C is 5."
+    },
+    {
+      "start": 50.76,
+      "end": 63.44,
+      "text": "Same with G, A, C, 1-5-1."
+    },
+    {
+      "start": 63.44,
+      "end": 77.68,
+      "text": "Another chord pattern that I like to teach is the C chord with the F second inversion"
+    },
+    {
+      "start": 77.68,
+      "end": 92.2,
+      "text": "that's C, F, A, then move everything up one note, D, G, B."
+    },
+    {
+      "start": 92.2,
+      "end": 108.96,
+      "text": "So C, F chord, you keep the C, then move everything up one, come down one."
+    },
+    {
+      "start": 108.96,
+      "end": 123.12,
+      "text": "That works for a lot of songs, and then finally, just do a chord."
+    },
+    {
+      "start": 123.12,
+      "end": 131.88,
+      "text": "That's a D chord, an A minor chord, an F."
+    },
+    {
+      "start": 131.88,
+      "end": 152.66,
+      "text": "Another way you can play that is, so that's 5-3-1-3 with your fingers."
+    },
+    {
+      "start": 152.66,
+      "end": 170.34,
+      "text": "3-5-3-1-3, get those in your muscle memory."
+    },
+    {
+      "start": 170.34,
+      "end": 187.74,
+      "text": "If it's a wall, you can do this."
+    },
+    {
+      "start": 187.74,
+      "end": 193.54,
+      "text": "Start with those, get those in your muscle memory, and you'll find that you'll be able"
+    },
+    {
+      "start": 193.54,
+      "end": 201.44,
+      "text": "to play those kind of combinations in any key."
+    },
+    {
+      "start": 201.44,
+      "end": 220.3,
+      "text": "For now, let's use just the A, the F, and the G, A, F, and G."
+    },
+    {
+      "start": 220.3,
+      "end": 231.06,
+      "text": "You can play the octave, F, G."
+    },
+    {
+      "start": 231.06,
+      "end": 238.94,
+      "text": "With those three chords in that order, you can make up all kinds of beautiful, beautiful"
+    },
+    {
+      "start": 238.94,
+      "end": 246.42,
+      "text": "patterns on the white keys in any order, because everything will work."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539400829"
 }

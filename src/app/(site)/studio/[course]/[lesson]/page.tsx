@@ -9,7 +9,6 @@ import { VimeoPlayer } from '@/components/site/VimeoPlayer'
 import { BuyButton } from '@/components/site/BuyButton'
 import { MarkComplete } from '@/components/site/MarkComplete'
 
-
 export default async function LessonPage({
   params,
 }: {
@@ -31,26 +30,26 @@ export default async function LessonPage({
   const next = course.lessons[index + 1]
 
   return (
-    <main className="mx-auto max-w-6xl px-5 py-10">
-      <p className="text-xs uppercase tracking-[0.28em] text-gulf">
+    <main className="mx-auto max-w-site px-6 py-12 md:py-16 lg:px-10">
+      <p className="kicker">
         <Link href="/studio">{course.title}</Link>
       </p>
-      <h1 className="font-display mt-2 text-3xl text-horizon">{lesson.title}</h1>
+      <h1 className="font-display mt-5 text-4xl text-horizon md:text-5xl">{lesson.title}</h1>
 
-      <div className="mt-6 grid gap-8 lg:grid-cols-[minmax(0,1.4fr)_minmax(16rem,0.8fr)]">
+      <div className="mt-8 grid gap-8 lg:grid-cols-[minmax(0,1.4fr)_minmax(16rem,0.8fr)]">
         <div>
           {canWatch ? (
-            <div className="overflow-hidden rounded-3xl border border-card-border">
+            <div className="card overflow-hidden">
               <VimeoPlayer lesson={lesson} title={lesson.title} />
             </div>
           ) : (
-            <div className="flex aspect-video flex-col items-center justify-center rounded-3xl border border-card-border bg-sky px-6 text-center">
-              <p className="font-display text-2xl text-horizon">This lesson is inside the course.</p>
-              <p className="mt-2 text-sm text-muted">Buy once. Watch anytime. Sit down with a kid tonight.</p>
-              <div className="mt-6 flex gap-3">
+            <div className="card flex aspect-video flex-col items-center justify-center bg-sky px-8 text-center">
+              <p className="font-display text-3xl text-horizon">This lesson is inside the course.</p>
+              <p className="mt-3 text-lg text-muted">Buy once. Watch anytime. Sit down with a kid tonight.</p>
+              <div className="mt-8 flex flex-wrap justify-center gap-4">
                 <BuyButton sku={course.sku} />
                 {!user && (
-                  <Link href="/login" className="rounded-full border border-horizon/15 px-5 py-2.5 text-sm">
+                  <Link href="/login" className="btn-secondary">
                     I already bought this
                   </Link>
                 )}
@@ -58,16 +57,16 @@ export default async function LessonPage({
             </div>
           )}
 
-          <div className="mt-4 flex justify-between text-sm">
+          <div className="mt-5 flex justify-between text-base">
             {prev ? (
-              <Link href={`/studio/${course.slug}/${prev.slug}`} className="text-gulf">
+              <Link href={`/studio/${course.slug}/${prev.slug}`} className="font-medium text-gulf-deep">
                 ← {prev.title}
               </Link>
             ) : (
               <span />
             )}
             {next ? (
-              <Link href={`/studio/${course.slug}/${next.slug}`} className="text-gulf">
+              <Link href={`/studio/${course.slug}/${next.slug}`} className="font-medium text-gulf-deep">
                 {next.title} →
               </Link>
             ) : (
@@ -80,14 +79,14 @@ export default async function LessonPage({
         </div>
 
         <aside className="space-y-6">
-          <ol className="overflow-hidden rounded-3xl border border-card-border bg-foam">
+          <ol className="card">
             {course.lessons.map((item, i) => {
               const locked = !item.isPreview && !owned
               return (
                 <li key={item.slug} className="border-b border-card-border last:border-0">
                   <Link
                     href={`/studio/${course.slug}/${item.slug}`}
-                    className={`block px-4 py-3 text-sm ${
+                    className={`block px-5 py-4 text-base ${
                       item.slug === lesson.slug ? 'bg-sky text-gulf-deep' : 'text-horizon hover:bg-sand'
                     }`}
                   >
@@ -101,9 +100,17 @@ export default async function LessonPage({
           </ol>
 
           {transcript?.text && (
-            <div className="max-h-[28rem] overflow-y-auto rounded-3xl border border-card-border bg-foam p-5">
-              <h2 className="text-xs uppercase tracking-[0.2em] text-gulf">Transcript</h2>
-              <p className="mt-3 whitespace-pre-wrap text-sm leading-relaxed text-horizon/90">{transcript.text}</p>
+            <div className="card max-h-[28rem] overflow-y-auto p-6">
+              <h2 className="kicker">Transcript</h2>
+              {transcript.cues?.length ? (
+                <div className="mt-4 space-y-3 text-base leading-relaxed text-horizon/90">
+                  {transcript.cues.map((cue) => (
+                    <p key={`${cue.start}-${cue.text}`}>{cue.text}</p>
+                  ))}
+                </div>
+              ) : (
+                <p className="mt-4 whitespace-pre-wrap text-base leading-relaxed text-horizon/90">{transcript.text}</p>
+              )}
             </div>
           )}
         </aside>

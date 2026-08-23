@@ -1,5 +1,47 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539400379/c4c0051215"
+  "text": "An octave is the distance between two of the same note. It's called an octave because one, two, three, four, five, six, seven, eight, octave. I like you to practice your octaves with your left hand. I'd also like you to practice your octaves with the fifth of that chord. For instance, in the C chord, one, three, five. This is called the fifth because one, two, three, four, five in the C scale. With E it's the A, with E it's the B, with F it's the C, with G it's the D, and with A it's the E. This will give you a solid bass line as you create music.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 17.8,
+      "text": "An octave is the distance between two of the same note."
+    },
+    {
+      "start": 17.8,
+      "end": 26.4,
+      "text": "It's called an octave because one, two, three, four, five, six, seven, eight, octave."
+    },
+    {
+      "start": 26.4,
+      "end": 49.52,
+      "text": "I like you to practice your octaves with your left hand."
+    },
+    {
+      "start": 49.52,
+      "end": 58.38,
+      "text": "I'd also like you to practice your octaves with the fifth of that chord."
+    },
+    {
+      "start": 58.38,
+      "end": 64.92,
+      "text": "For instance, in the C chord, one, three, five."
+    },
+    {
+      "start": 64.92,
+      "end": 78.24,
+      "text": "This is called the fifth because one, two, three, four, five in the C scale."
+    },
+    {
+      "start": 78.24,
+      "end": 100.92,
+      "text": "With E it's the A, with E it's the B, with F it's the C, with G it's the D, and with A it's the E."
+    },
+    {
+      "start": 100.92,
+      "end": 108.22,
+      "text": "This will give you a solid bass line as you create music."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539400379"
 }

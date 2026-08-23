@@ -1,5 +1,232 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539423429/848770906f"
+  "text": "How to find any major chord. You start with the root, which is the name of the chord. So let's find, for instance, F major. What we're going to do is start with the root, then we're going to count up four half steps and then three half steps. One, two, three, four, one, two, three. There is your F chord. Let's try it with D. One, two, three, four, one, two, three. That is a D major chord, four, then three. Let's find A major, one, two, three, four, one, two, three. To find the minor chord, it's just the opposite. You start with your root, then you count up three, and then count up four. So let's start with C. C is our root. We want to play C minor, one, two, three, one, two, three, four. That C minor, C major was this. C minor is this. So the only thing that really changes is the third. Why do we call this the third, one, two, three, in the C scale. C major, C minor. Let's go to F, one, two, three, one, two, three, four. This is the F minor. This is F major, and this is F minor. So if you know the minor chord, you know the minor chord, and if you know the minor chord, you know the major chord, for instance, in the scale of C, we know that this is C major. We know that this is D minor, one, two, three, one, two, three, four. So to make this major, we just go up a half a step in the third. This D major, this is D minor, let's do it with E, one, two, three, one, two, three, four. That's E minor, and that's E major, and so on. You can find any chord with that formula. If you want to make a seventh chord, you simply add three more half steps. This is the C chord, and when we add three half steps, we get a B flat, and it sounds like this. You heard that in rock and roll, a C minor seventh sounds like this, and when you go up three half steps, this is a C minor seventh chord, and it sounds like this. If you want to play a sixth, you simply add the relative minor, or just go up two more half steps, here's the C chord, and we add the A, and it sounds like this. To play a ninth, you simply go up two half steps from the root. This is the C chord, two half steps up from C is a D. So I'm going to play an inversion of a C ninth, or this, or this. This is the sound of a C suspended chord. This is the C chord, and we're going to add the F. Those are all the notes of a suspended C. These formulas work with every single note on the piano.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 10.88,
+      "text": "How to find any major chord."
+    },
+    {
+      "start": 10.88,
+      "end": 14.52,
+      "text": "You start with the root, which is the name of the chord."
+    },
+    {
+      "start": 14.52,
+      "end": 20.14,
+      "text": "So let's find, for instance, F major."
+    },
+    {
+      "start": 20.14,
+      "end": 26.7,
+      "text": "What we're going to do is start with the root, then we're going to count up four half steps"
+    },
+    {
+      "start": 26.7,
+      "end": 31.9,
+      "text": "and then three half steps."
+    },
+    {
+      "start": 31.9,
+      "end": 39.26,
+      "text": "One, two, three, four, one, two, three."
+    },
+    {
+      "start": 39.26,
+      "end": 42.9,
+      "text": "There is your F chord."
+    },
+    {
+      "start": 42.9,
+      "end": 48.14,
+      "text": "Let's try it with D."
+    },
+    {
+      "start": 48.14,
+      "end": 54.66,
+      "text": "One, two, three, four, one, two, three."
+    },
+    {
+      "start": 54.66,
+      "end": 60.42,
+      "text": "That is a D major chord, four, then three."
+    },
+    {
+      "start": 60.42,
+      "end": 75.02,
+      "text": "Let's find A major, one, two, three, four, one, two, three."
+    },
+    {
+      "start": 75.02,
+      "end": 78.98,
+      "text": "To find the minor chord, it's just the opposite."
+    },
+    {
+      "start": 78.98,
+      "end": 86.74,
+      "text": "You start with your root, then you count up three, and then count up four."
+    },
+    {
+      "start": 86.74,
+      "end": 90.06,
+      "text": "So let's start with C."
+    },
+    {
+      "start": 90.06,
+      "end": 91.06,
+      "text": "C is our root."
+    },
+    {
+      "start": 91.06,
+      "end": 99.82,
+      "text": "We want to play C minor, one, two, three, one, two, three, four."
+    },
+    {
+      "start": 99.82,
+      "end": 105.66,
+      "text": "That C minor, C major was this."
+    },
+    {
+      "start": 105.66,
+      "end": 109.9,
+      "text": "C minor is this."
+    },
+    {
+      "start": 109.9,
+      "end": 113.74,
+      "text": "So the only thing that really changes is the third."
+    },
+    {
+      "start": 113.74,
+      "end": 121.18,
+      "text": "Why do we call this the third, one, two, three, in the C scale."
+    },
+    {
+      "start": 121.18,
+      "end": 127.3,
+      "text": "C major, C minor."
+    },
+    {
+      "start": 127.3,
+      "end": 136.58,
+      "text": "Let's go to F, one, two, three, one, two, three, four."
+    },
+    {
+      "start": 136.58,
+      "end": 139.74,
+      "text": "This is the F minor."
+    },
+    {
+      "start": 139.74,
+      "end": 148.22,
+      "text": "This is F major, and this is F minor."
+    },
+    {
+      "start": 148.22,
+      "end": 153.82,
+      "text": "So if you know the minor chord, you know the minor chord, and if you know the minor chord,"
+    },
+    {
+      "start": 153.82,
+      "end": 162.42,
+      "text": "you know the major chord, for instance, in the scale of C, we know that this is C major."
+    },
+    {
+      "start": 162.42,
+      "end": 170.86,
+      "text": "We know that this is D minor, one, two, three, one, two, three, four."
+    },
+    {
+      "start": 170.86,
+      "end": 176.74,
+      "text": "So to make this major, we just go up a half a step in the third."
+    },
+    {
+      "start": 176.74,
+      "end": 191.38,
+      "text": "This D major, this is D minor, let's do it with E, one, two, three, one, two, three, four."
+    },
+    {
+      "start": 191.38,
+      "end": 199.7,
+      "text": "That's E minor, and that's E major, and so on."
+    },
+    {
+      "start": 199.7,
+      "end": 204.82,
+      "text": "You can find any chord with that formula."
+    },
+    {
+      "start": 204.82,
+      "end": 211.3,
+      "text": "If you want to make a seventh chord, you simply add three more half steps."
+    },
+    {
+      "start": 211.3,
+      "end": 221.62,
+      "text": "This is the C chord, and when we add three half steps, we get a B flat, and it sounds"
+    },
+    {
+      "start": 221.62,
+      "end": 226.9,
+      "text": "like this."
+    },
+    {
+      "start": 226.9,
+      "end": 235.94,
+      "text": "You heard that in rock and roll, a C minor seventh sounds like this, and when you go"
+    },
+    {
+      "start": 235.94,
+      "end": 247.78,
+      "text": "up three half steps, this is a C minor seventh chord, and it sounds like this."
+    },
+    {
+      "start": 247.78,
+      "end": 255.62,
+      "text": "If you want to play a sixth, you simply add the relative minor, or just go up two more"
+    },
+    {
+      "start": 255.62,
+      "end": 269.86,
+      "text": "half steps, here's the C chord, and we add the A, and it sounds like this."
+    },
+    {
+      "start": 269.86,
+      "end": 277.4,
+      "text": "To play a ninth, you simply go up two half steps from the root."
+    },
+    {
+      "start": 277.4,
+      "end": 284.1,
+      "text": "This is the C chord, two half steps up from C is a D."
+    },
+    {
+      "start": 284.1,
+      "end": 301.62,
+      "text": "So I'm going to play an inversion of a C ninth, or this, or this."
+    },
+    {
+      "start": 301.62,
+      "end": 307.58,
+      "text": "This is the sound of a C suspended chord."
+    },
+    {
+      "start": 307.58,
+      "end": 327.38,
+      "text": "This is the C chord, and we're going to add the F."
+    },
+    {
+      "start": 327.38,
+      "end": 331.62,
+      "text": "Those are all the notes of a suspended C."
+    },
+    {
+      "start": 331.62,
+      "end": 337.22,
+      "text": "These formulas work with every single note on the piano."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539423429"
 }

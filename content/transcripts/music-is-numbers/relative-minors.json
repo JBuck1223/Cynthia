@@ -1,5 +1,107 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539416510/3f2da6fcde"
+  "text": "The sixth note of every scale is the relative minor. That means when you see the kig signature that says no sharps or flats, you're playing in the key of C. But depending on the song, you might be playing in the key of A minor. So let's take a look at this. 1, 2, 3, 4, 5, 6. A is the relative minor of C. So when you play the C scale, it sounds like this. When you play the A minor scale, it sounds like this. No sharps or flats. The minor keys are kind of a more melancholy, maybe mystic kind of music. Maybe you've heard this before. That is the song green sleeves and that song is written in the key of A minor. Let's look at the chords in the C scale. Let's play the major ones first. Play a C major chord. Good. Now let's play an F major chord. And the five is major. Let's play a G chord. And every scale, the 1, the 4, and the 5 are major. Now let's play the minor chords in the C scale. D minor, E minor, and A minor. The 2, the 3, and the 6 of every scale are minor. What's interesting is every major chord in that scale also has its relative minor in the same scale. C, 2, 3, 4, 5, 6 is the relative minor. We have C major and its relative minor is A minor. Now let's look at the key of G. 1, 2, 3, 4, 5, 6. We have G major and we also have its relative minor, E minor. Now let's look at the scale of F. There's the F chord. 1, 2, 3, 4, 5, 6. D is the relative minor of F and we have a D minor chord. So here's the 1 with the relative minor of 6. Here's the 4 with the relative minor of D and we have the 5. The relative minor is E. It's amazing how it all comes together. Pythagoras was a very bright man. These are all in ratio of 3 to 2. .",
+  "cues": [
+    {
+      "start": 0,
+      "end": 17.56,
+      "text": "The sixth note of every scale is the relative minor."
+    },
+    {
+      "start": 17.56,
+      "end": 22.68,
+      "text": "That means when you see the kig signature that says no sharps or flats, you're playing"
+    },
+    {
+      "start": 22.68,
+      "end": 33.54,
+      "text": "in the key of C. But depending on the song, you might be playing in the key of A minor."
+    },
+    {
+      "start": 33.54,
+      "end": 44.92,
+      "text": "So let's take a look at this. 1, 2, 3, 4, 5, 6. A is the relative minor of C. So when"
+    },
+    {
+      "start": 44.92,
+      "end": 55.46,
+      "text": "you play the C scale, it sounds like this. When you play the A minor scale, it sounds"
+    },
+    {
+      "start": 55.46,
+      "end": 70.56,
+      "text": "like this. No sharps or flats. The minor keys are kind of a more melancholy, maybe mystic"
+    },
+    {
+      "start": 70.56,
+      "end": 84.46,
+      "text": "kind of music. Maybe you've heard this before. That is the song green sleeves and that song"
+    },
+    {
+      "start": 84.46,
+      "end": 97.22,
+      "text": "is written in the key of A minor. Let's look at the chords in the C scale. Let's play the"
+    },
+    {
+      "start": 97.22,
+      "end": 112.1,
+      "text": "major ones first. Play a C major chord. Good. Now let's play an F major chord. And the"
+    },
+    {
+      "start": 112.1,
+      "end": 131.06,
+      "text": "five is major. Let's play a G chord. And every scale, the 1, the 4, and the 5 are major."
+    },
+    {
+      "start": 131.06,
+      "end": 155.26,
+      "text": "Now let's play the minor chords in the C scale. D minor, E minor, and A minor. The 2, the 3,"
+    },
+    {
+      "start": 155.26,
+      "end": 169.78,
+      "text": "and the 6 of every scale are minor. What's interesting is every major chord in that scale"
+    },
+    {
+      "start": 169.78,
+      "end": 185.96,
+      "text": "also has its relative minor in the same scale. C, 2, 3, 4, 5, 6 is the relative minor. We"
+    },
+    {
+      "start": 185.96,
+      "end": 199.68,
+      "text": "have C major and its relative minor is A minor. Now let's look at the key of G. 1, 2, 3, 4,"
+    },
+    {
+      "start": 199.68,
+      "end": 209.08,
+      "text": "5, 6. We have G major and we also have its relative minor, E minor. Now let's look at"
+    },
+    {
+      "start": 209.08,
+      "end": 222.96,
+      "text": "the scale of F. There's the F chord. 1, 2, 3, 4, 5, 6. D is the relative minor of F and"
+    },
+    {
+      "start": 222.96,
+      "end": 238.12,
+      "text": "we have a D minor chord. So here's the 1 with the relative minor of 6. Here's the 4 with"
+    },
+    {
+      "start": 238.12,
+      "end": 253.12,
+      "text": "the relative minor of D and we have the 5. The relative minor is E. It's amazing how"
+    },
+    {
+      "start": 253.12,
+      "end": 261,
+      "text": "it all comes together. Pythagoras was a very bright man. These are all in ratio of 3 to"
+    },
+    {
+      "start": 261,
+      "end": 268,
+      "text": "2. ."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539416510"
 }

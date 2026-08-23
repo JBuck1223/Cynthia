@@ -16,9 +16,9 @@ function CheckoutForm() {
 
   if (!product) {
     return (
-      <main className="mx-auto max-w-md px-5 py-24 text-center">
-        <h1 className="font-display text-3xl text-horizon">Nothing to buy yet</h1>
-        <button className="mt-6 text-gulf" onClick={() => router.push('/courses')}>
+      <main className="mx-auto max-w-lg px-5 py-24 text-center">
+        <h1 className="font-display text-4xl text-horizon">Nothing to buy yet</h1>
+        <button className="btn-secondary mt-8" onClick={() => router.push('/courses')}>
           Back to courses
         </button>
       </main>
@@ -44,28 +44,24 @@ function CheckoutForm() {
   }
 
   return (
-    <main className="mx-auto max-w-md px-5 py-24">
-      <p className="text-xs uppercase tracking-[0.28em] text-gulf">Checkout</p>
-      <h1 className="font-display mt-3 text-3xl text-horizon">{product.name}</h1>
-      <p className="mt-2 text-muted">{formatPrice(product.priceCents)}</p>
-      <form onSubmit={onSubmit} className="mt-8 space-y-4 rounded-3xl border border-card-border bg-foam p-6">
-        <label className="block text-sm text-horizon">
+    <main className="mx-auto max-w-lg px-5 py-20 md:py-28">
+      <p className="kicker">Checkout</p>
+      <h1 className="font-display mt-5 text-4xl text-horizon md:text-5xl">{product.name}</h1>
+      <p className="mt-3 text-2xl font-semibold text-gulf-deep">{formatPrice(product.priceCents)}</p>
+      <form onSubmit={onSubmit} className="card mt-10 space-y-5 p-8">
+        <label className="block text-base text-horizon">
           Email
           <input
             type="email"
             required
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            className="mt-1 w-full rounded-xl border border-card-border bg-sand px-3 py-2.5 text-horizon outline-none focus:border-gulf"
+            className="mt-2 w-full rounded-2xl border border-card-border bg-sand px-4 py-3.5 text-horizon outline-none focus:border-gulf"
             placeholder="you@email.com"
           />
         </label>
-        {error && <p className="text-sm text-coral-deep">{error}</p>}
-        <button
-          type="submit"
-          disabled={loading}
-          className="w-full rounded-full bg-coral py-3 text-sm font-medium text-foam hover:bg-coral-deep disabled:opacity-60"
-        >
+        {error && <p className="text-base text-coral-deep">{error}</p>}
+        <button type="submit" disabled={loading} className="btn w-full bg-coral text-foam hover:bg-coral-deep disabled:opacity-60">
           {loading ? 'Redirecting…' : 'Continue to payment'}
         </button>
       </form>

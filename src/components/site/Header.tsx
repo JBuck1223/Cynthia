@@ -5,6 +5,7 @@ import { usePathname } from 'next/navigation'
 import { Menu, X } from 'lucide-react'
 import { useState } from 'react'
 import { cn } from '@/lib/utils'
+import { Logo } from '@/components/site/Logo'
 
 const links = [
   { href: '/courses', label: 'Courses' },
@@ -12,47 +13,29 @@ const links = [
   { href: '/studio', label: 'Studio' },
 ]
 
-export function Header() {
+export function SiteNav({ light }: { light?: boolean }) {
   const pathname = usePathname()
   const [open, setOpen] = useState(false)
-  const overlay = pathname === '/'
 
   return (
-    <header
-      className={cn(
-        'z-40',
-        overlay
-          ? 'absolute inset-x-0 top-0 bg-gradient-to-b from-horizon/55 to-transparent'
-          : 'sticky top-0 border-b border-card-border/70 bg-foam/90 backdrop-blur-md',
-      )}
-    >
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
-        <Link href="/" className="flex items-baseline gap-2">
-          <span className={cn('font-display text-xl tracking-tight', overlay ? 'text-foam' : 'text-horizon')}>
-            Cynthia
-          </span>
-          <span
-            className={cn(
-              'hidden text-xs uppercase tracking-[0.22em] sm:inline',
-              overlay ? 'text-foam/70' : 'text-gulf',
-            )}
-          >
-            Music
-          </span>
+    <div>
+      <div className="mx-auto flex min-h-20 max-w-site items-center justify-between px-6 py-3 lg:px-10">
+        <Link href="/" aria-label="Cynthia Music home">
+          <Logo inverted={light} />
         </Link>
 
-        <nav className="hidden items-center gap-7 md:flex">
+        <nav className="hidden items-center gap-1 md:flex">
           {links.map((link) => (
             <Link
               key={link.href}
               href={link.href}
               className={cn(
-                'text-sm transition-colors',
-                overlay
-                  ? 'text-foam/80 hover:text-foam'
+                'rounded-full px-5 py-3 text-lg transition-colors',
+                light
+                  ? 'text-foam/90 hover:bg-foam/15 hover:text-foam'
                   : pathname.startsWith(link.href)
-                    ? 'text-gulf-deep'
-                    : 'text-muted hover:text-horizon',
+                    ? 'bg-sky text-gulf-deep'
+                    : 'text-muted hover:bg-sky/70 hover:text-horizon',
               )}
             >
               {link.label}
@@ -60,10 +43,7 @@ export function Header() {
           ))}
           <Link
             href="/courses"
-            className={cn(
-              'rounded-full px-4 py-2 text-sm transition-colors',
-              overlay ? 'bg-foam text-horizon hover:bg-sand' : 'bg-gulf text-foam hover:bg-gulf-deep',
-            )}
+            className="btn ml-2 bg-coral text-foam shadow-[0_12px_28px_-12px_rgba(255,122,92,0.9)] hover:bg-coral-deep"
           >
             Start playing
           </Link>
@@ -71,30 +51,56 @@ export function Header() {
 
         <button
           type="button"
-          className={cn('md:hidden p-2', overlay ? 'text-foam' : 'text-horizon')}
+          className={cn('rounded-full p-3 md:hidden', light ? 'text-foam' : 'text-horizon')}
           onClick={() => setOpen((v) => !v)}
           aria-label="Menu"
         >
-          {open ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+          {open ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
         </button>
       </div>
 
       {open && (
-        <div className="border-t border-white/10 bg-horizon/95 px-5 py-4 md:hidden">
-          <div className="flex flex-col gap-3">
+        <div
+          className={cn(
+            'px-5 py-5 md:hidden',
+            light ? 'border-t border-foam/15 bg-horizon/90' : 'border-t border-gulf/10 bg-foam/95',
+          )}
+        >
+          <div className="flex flex-col gap-2">
             {links.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 onClick={() => setOpen(false)}
-                className="py-1 text-foam"
+                className={cn(
+                  'rounded-2xl px-4 py-3 text-lg',
+                  light ? 'text-foam hover:bg-foam/10' : 'text-horizon hover:bg-sky',
+                )}
               >
                 {link.label}
               </Link>
             ))}
+            <Link
+              href="/courses"
+              onClick={() => setOpen(false)}
+              className="btn mt-2 bg-coral text-center text-foam"
+            >
+              Start playing
+            </Link>
           </div>
         </div>
       )}
+    </div>
+  )
+}
+
+export function Header() {
+  const pathname = usePathname()
+  if (pathname === '/') return null
+
+  return (
+    <header className="sticky top-0 z-40 border-b border-gulf/10 bg-foam/80 backdrop-blur-xl">
+      <SiteNav />
     </header>
   )
 }

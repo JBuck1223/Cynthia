@@ -1,5 +1,82 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539415680/3a9079c061"
+  "text": "A half step is the distance between two notes with no note in between. These are all half steps. Whole steps have one note in between. There's a note there, there's a note there, there's a note there, there's a note there, there's a note there, there's a note there, there's a note there, those are whole steps. At the top you can see all the different names of the black notes, and on the bottom is a diagram explaining whole steps and half steps. Now we're going to look at sharps and flats, this is where the black keys come in. A sharp is half a step above any note, so this is C and this is C sharp. This is F, this is F sharp, this is G, this is G sharp, actually this is E and F is actually E sharp because there's no note in between, but we don't use that too much. To find a flat it's one half step below, here's C sharp, now we're going to look at D flat, so C sharp and D flat are the same note, D sharp, E flat, D sharp and E flat are the same note, A sharp, A flat, G sharp is the same as A flat, B flat is the same as A sharp and so on, so all the sharps and flats are found by half steps.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 14.84,
+      "text": "A half step is the distance between two notes with no note in between."
+    },
+    {
+      "start": 14.84,
+      "end": 23.36,
+      "text": "These are all half steps."
+    },
+    {
+      "start": 23.36,
+      "end": 26.92,
+      "text": "Whole steps have one note in between."
+    },
+    {
+      "start": 26.92,
+      "end": 43.04,
+      "text": "There's a note there, there's a note there, there's a note there, there's a note there,"
+    },
+    {
+      "start": 43.04,
+      "end": 56,
+      "text": "there's a note there, there's a note there, there's a note there, those are whole steps."
+    },
+    {
+      "start": 56,
+      "end": 62.8,
+      "text": "At the top you can see all the different names of the black notes, and on the bottom is a"
+    },
+    {
+      "start": 62.8,
+      "end": 69.48,
+      "text": "diagram explaining whole steps and half steps."
+    },
+    {
+      "start": 69.48,
+      "end": 77.28,
+      "text": "Now we're going to look at sharps and flats, this is where the black keys come in."
+    },
+    {
+      "start": 77.28,
+      "end": 88.6,
+      "text": "A sharp is half a step above any note, so this is C and this is C sharp."
+    },
+    {
+      "start": 88.6,
+      "end": 103.52,
+      "text": "This is F, this is F sharp, this is G, this is G sharp, actually this is E and F is actually"
+    },
+    {
+      "start": 103.52,
+      "end": 111.28,
+      "text": "E sharp because there's no note in between, but we don't use that too much."
+    },
+    {
+      "start": 111.28,
+      "end": 127.08,
+      "text": "To find a flat it's one half step below, here's C sharp, now we're going to look at D flat,"
+    },
+    {
+      "start": 127.08,
+      "end": 141.24,
+      "text": "so C sharp and D flat are the same note, D sharp, E flat, D sharp and E flat are the"
+    },
+    {
+      "start": 141.24,
+      "end": 162.84,
+      "text": "same note, A sharp, A flat, G sharp is the same as A flat, B flat is the same as A sharp"
+    },
+    {
+      "start": 162.84,
+      "end": 169.92,
+      "text": "and so on, so all the sharps and flats are found by half steps."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539415680"
 }

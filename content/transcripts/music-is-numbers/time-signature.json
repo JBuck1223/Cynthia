@@ -1,5 +1,252 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539419816/09640cde46"
+  "text": "Times signatures are the numbers we use to set the pace of the music composition. You can see the 4 over the 4 in the time signature also represented by a C. This means the quarter note gets one count and every measure sounds like this. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 2, 4 time represented by the 2 over the 4 or a C with a line through it is also known as half-time. 1, 2, 1, 2, 1, 2, 1, 2. 6, 8 time means that every eighth note gets one count. This format was real popular in the 60s. 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6. And finally, the walls. 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3. I've put a list of songs together for you so you can listen to the different time signatures with all familiar country songs. [Music] I see the questions in your eyes. I know what's weighing on your mind but you can be sure I know my part. Girls, I stand beside you the years. You'll only cry those happy dreams. And though I make mistakes, I'll never break your heart. I swear by the moon and the stars in the sky, I'll be there. I swear like a shadow that's by your side. I swear like a shadow that's by your side. I swear like a shadow that's by your side. I swear like a shadow that's by your side. I swear like a shadow that's by your side. I swear like a shadow that's by your side. I swear like a shadow that's by your side. [Music] Maybe someday I'll be strong. Maybe it won't be long. I'll be the one who's tough. Maybe it won't be long. Maybe it won't be long. Maybe I'll be strong. [Music] We've got to use the blues to make you feel better. You've got to use the blues to make you feel better. You've got to use the blues. Somebody saying about all the trouble they have. We'll make you feel a lot better by even back. We've got to use the blues to make you feel better. Everybody, what you think about all this? When you're feeling moving, your heart ain't having no more. Oh, no. I know that's true. When you're feeling moving, your heart ain't having no more. I ain't never seen anybody dancing in Christ. Take all your trouble and leave a loud on the floor. Come on, let's get all up there. I'm with you, baby. [Music] We'll see some sights down at the house. The house of blue lights, there's priors. Brawlers and Detroit and barbecue rims. But the treat of the treat is when they serve up those five and eight beats. You want to spend the rest of your brides and at the house, the house of blue lights. It's Sunday morning and the sun shining in my eye that's open and my head is spinning. What's the life of the party? I can't stop grinning. I had too much to keep but last night. Jose Cuervo, you are a friend of mine. I like to drink you with a little salt and lime, and I kiss all cowboys that I shoot out the lights, that I dance on the bar, that I start the fight. All alone am I ever since you're goodbye. All alone with just the feet of my heart. People all around, but I don't hear a sound just the lonely beating of my heart. [Music] Out in the west Texas town of El Paso, I fell in love with a Mexican girl. Nighttime would find me in Rose's cantina. Music would play an infinitive world. Blacker than night were the eyes of an eagle, wicked and evil while casting a spell. My love was deep for this Mexican man. I wasn't loved but in vain I could tell. One night a while your cowboy came in while there's the west Texas way. I seen him daring to drink. He was staring with wicked the lean of the girl that I love. So it I could, I challenged his right for the love of this man. Down with his hand for the gun that he wore.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 13.58,
+      "text": "Times signatures are the numbers we use to set the pace of the music composition."
+    },
+    {
+      "start": 13.58,
+      "end": 22.36,
+      "text": "You can see the 4 over the 4 in the time signature also represented by a C. This means"
+    },
+    {
+      "start": 22.36,
+      "end": 30,
+      "text": "the quarter note gets one count and every measure sounds like this. 1, 2, 3, 4. 1, 2,"
+    },
+    {
+      "start": 30,
+      "end": 40.94,
+      "text": "3, 4. 1, 2, 3, 4. 2, 4 time represented by the 2 over the 4 or a C with a line"
+    },
+    {
+      "start": 40.94,
+      "end": 52.04,
+      "text": "through it is also known as half-time. 1, 2, 1, 2, 1, 2, 1, 2. 6, 8 time means that"
+    },
+    {
+      "start": 52.04,
+      "end": 61.44,
+      "text": "every eighth note gets one count. This format was real popular in the 60s. 1, 2, 3, 4, 5,"
+    },
+    {
+      "start": 61.44,
+      "end": 70.68,
+      "text": "6, 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6. And finally, the walls."
+    },
+    {
+      "start": 70.68,
+      "end": 79.96,
+      "text": "1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3. I've put a list of songs together for you so you"
+    },
+    {
+      "start": 79.96,
+      "end": 85.2,
+      "text": "can listen to the different time signatures with all familiar country songs."
+    },
+    {
+      "start": 109.96,
+      "end": 136.28,
+      "text": "[Music]"
+    },
+    {
+      "start": 136.28,
+      "end": 147.64,
+      "text": "I see the questions in your eyes. I know what's weighing on your mind but you can"
+    },
+    {
+      "start": 147.64,
+      "end": 165.28,
+      "text": "be sure I know my part. Girls, I stand beside you the years. You'll only cry those happy"
+    },
+    {
+      "start": 165.28,
+      "end": 180.4,
+      "text": "dreams. And though I make mistakes, I'll never break your heart. I swear by the moon and"
+    },
+    {
+      "start": 180.4,
+      "end": 195.24,
+      "text": "the stars in the sky, I'll be there. I swear like a shadow that's by your side. I swear"
+    },
+    {
+      "start": 195.24,
+      "end": 209.64,
+      "text": "like a shadow that's by your side. I swear like a shadow that's by your side."
+    },
+    {
+      "start": 209.64,
+      "end": 219.12,
+      "text": "I swear like a shadow that's by your side. I swear like a shadow that's by your side."
+    },
+    {
+      "start": 219.12,
+      "end": 222.92,
+      "text": "I swear like a shadow that's by your side. I swear like a shadow that's by your side."
+    },
+    {
+      "start": 222.92,
+      "end": 238.52,
+      "text": "[Music]"
+    },
+    {
+      "start": 238.52,
+      "end": 249.24,
+      "text": "Maybe someday I'll be strong. Maybe it won't be long. I'll be the one who's tough."
+    },
+    {
+      "start": 249.24,
+      "end": 258.84,
+      "text": "Maybe it won't be long. Maybe it won't be long. Maybe I'll be strong."
+    },
+    {
+      "start": 258.84,
+      "end": 281.88,
+      "text": "[Music]"
+    },
+    {
+      "start": 281.88,
+      "end": 294.04,
+      "text": "We've got to use the blues to make you feel better. You've got to use the blues to make"
+    },
+    {
+      "start": 294.04,
+      "end": 303.72,
+      "text": "you feel better. You've got to use the blues. Somebody saying about all the trouble they"
+    },
+    {
+      "start": 303.72,
+      "end": 311.96,
+      "text": "have. We'll make you feel a lot better by even back. We've got to use the blues to make"
+    },
+    {
+      "start": 311.96,
+      "end": 317.88,
+      "text": "you feel better. Everybody, what you think about all this?"
+    },
+    {
+      "start": 317.88,
+      "end": 326.76,
+      "text": "When you're feeling moving, your heart ain't having no more. Oh, no. I know that's true."
+    },
+    {
+      "start": 326.76,
+      "end": 332.28,
+      "text": "When you're feeling moving, your heart ain't having no more."
+    },
+    {
+      "start": 332.28,
+      "end": 340.68,
+      "text": "I ain't never seen anybody dancing in Christ. Take all your trouble and leave a loud on"
+    },
+    {
+      "start": 340.68,
+      "end": 347.32,
+      "text": "the floor. Come on, let's get all up there. I'm with you, baby."
+    },
+    {
+      "start": 347.32,
+      "end": 371.32,
+      "text": "[Music]"
+    },
+    {
+      "start": 371.32,
+      "end": 376.92,
+      "text": "We'll see some sights down at the house. The house of blue lights, there's priors."
+    },
+    {
+      "start": 376.92,
+      "end": 383.72,
+      "text": "Brawlers and Detroit and barbecue rims. But the treat of the treat is when they serve up"
+    },
+    {
+      "start": 383.72,
+      "end": 389.96,
+      "text": "those five and eight beats. You want to spend the rest of your brides and at the house,"
+    },
+    {
+      "start": 389.96,
+      "end": 410.2,
+      "text": "the house of blue lights."
+    },
+    {
+      "start": 419.96,
+      "end": 427.72,
+      "text": "It's Sunday morning and the sun shining in my eye that's open and my head is spinning."
+    },
+    {
+      "start": 427.72,
+      "end": 435.16,
+      "text": "What's the life of the party? I can't stop grinning. I had too much to keep but last night."
+    },
+    {
+      "start": 435.16,
+      "end": 443.72,
+      "text": "Jose Cuervo, you are a friend of mine. I like to drink you with a little salt and lime,"
+    },
+    {
+      "start": 443.72,
+      "end": 459.64,
+      "text": "and I kiss all cowboys that I shoot out the lights, that I dance on the bar, that I start the fight."
+    },
+    {
+      "start": 459.64,
+      "end": 480.6,
+      "text": "All alone am I ever since you're goodbye. All alone with just the feet of my heart."
+    },
+    {
+      "start": 480.6,
+      "end": 497.72,
+      "text": "People all around, but I don't hear a sound just the lonely beating of my heart."
+    },
+    {
+      "start": 497.72,
+      "end": 507.56,
+      "text": "[Music]"
+    },
+    {
+      "start": 507.56,
+      "end": 517.08,
+      "text": "Out in the west Texas town of El Paso, I fell in love with a Mexican girl."
+    },
+    {
+      "start": 517.08,
+      "end": 526.76,
+      "text": "Nighttime would find me in Rose's cantina. Music would play an infinitive world."
+    },
+    {
+      "start": 526.76,
+      "end": 536.28,
+      "text": "Blacker than night were the eyes of an eagle, wicked and evil while casting a spell."
+    },
+    {
+      "start": 536.28,
+      "end": 546.12,
+      "text": "My love was deep for this Mexican man. I wasn't loved but in vain I could tell."
+    },
+    {
+      "start": 546.12,
+      "end": 558.12,
+      "text": "One night a while your cowboy came in while there's the west Texas way."
+    },
+    {
+      "start": 558.12,
+      "end": 566.52,
+      "text": "I seen him daring to drink. He was staring with wicked the lean of the girl that I love."
+    },
+    {
+      "start": 566.52,
+      "end": 570.44,
+      "text": "So it I could, I challenged his right for the love of this man."
+    },
+    {
+      "start": 570.44,
+      "end": 575.72,
+      "text": "Down with his hand for the gun that he wore."
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539419816"
 }

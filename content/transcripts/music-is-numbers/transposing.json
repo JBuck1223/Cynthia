@@ -1,5 +1,332 @@
 {
-  "text": "",
-  "source": "pending",
-  "url": "https://vimeo.com/539419918/a48aa46d1e"
+  "text": "Here is a chart that shows all keys up to five sharps and five flats. From this chart, you can transpose songs from key to key. In other words, if you see a song in your big fake book that is written in the key of G, and you want to change it to the key of D, all of the G's will be D's. All of the A's will be E's. All of the B's will be F, and so on. You can also use this chart to turn the keys into numbers. This will make it easy if you're playing in a band to change keys in case you are using different singers. The number system makes it easy to change from key to key. Often musicians use the capo to transpose to different keys on their guitar. Each fret is a half a step. You can see by the picture the guitar player is playing a C chord to frets up. This means that the chord will sound like a D chord because D is two half steps up from C. If you play keyboard and you want to change keys, you use the transpose button on your electric keyboard. When you click the pluses, they go up a half a step, and if you click the minuses, they go down a half a step. If you're playing in the key of C, for instance, and you want to play in the key of E, from C, you count up to C sharp, D, D sharp, E. That's one, two, three, four. So you would go up a plus four. If you're playing in the key of C, and you want to play in the key of A, you might want to use the minus signs. From C, B to B flat to A is three half steps down. This works with any key. Let's revisit the C scale. If you know the C scale in the chords in the key of C, then transposing on a keyboard or a guitar can be much easier with the number system because whenever you would see a one, you would play a C, a two, a D, a three, an E, a four, an F, a five, a G, and a six, an A. It is not necessary to use the exact chords that are in a scale when you are writing a song or playing a song. For instance, in a scale, the two is usually minor, however, in country music, very often they use the two chord as a major. A two major produces a sound that is very characteristic to country music. If you transpose your keyboard to the key of E, you would still be playing the chords from the C scale, but it was sound as if you were playing in the key of E. I suggest you also learn the key of G. The key of C and the key of G share some of the same chords. They share G, A minor, C, and E minor. The new chords are a B minor and a D major because, in the scale of G, the F is sharped. Knowing these two keys can make transposing on guitar and piano much easier. Or you can learn how to play in all of the keys. The real good musicians can do that. You have learned the number system. There are more samples in the PDF to give you a better idea with more complicated songs, how to translate them into the number system. The next part of this course shows how to build chords on the keyboard. My brother loved this part of the course because he plays guitar, he knew the chords, and now he can play them on the piano. Remember to always make music fun! Here is a song I wrote for my up-and-coming musical Miss Pearl's Parlor. And yes, I recorded this in Nashville with musicians who read the number system. You've got deep pockets, I could tell in a flash, you've got some deep pockets. And my deep mind asks me how I know you are the man for me. Hey, Mr. Deep Fockets, are you looking for some company? You've got deep pockets, I could tell by your style, you've got some deep pockets, I could see by the way that you walked in the room. Just like you're ruling the roost, hey, Mr. Deep Fockets, I want to take off your boots. The other girls here, they settle for fear, I like fine champagne, I appreciate you dear, you're never ever going to hear me complain, hey, Mr. Deep Fockets, what you got down there in those deep pockets, let's go upstairs, we'll dance all night, you and me in mine. Hey, Mr. Deep Fockets, I want to take off your boots. I want to take off your boots, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs,",
+  "cues": [
+    {
+      "start": 0,
+      "end": 6.42,
+      "text": "Here is a chart that shows all keys up to five sharps and five flats."
+    },
+    {
+      "start": 6.42,
+      "end": 10.94,
+      "text": "From this chart, you can transpose songs from key to key."
+    },
+    {
+      "start": 10.94,
+      "end": 16.9,
+      "text": "In other words, if you see a song in your big fake book that is written in the key of G,"
+    },
+    {
+      "start": 16.9,
+      "end": 23.36,
+      "text": "and you want to change it to the key of D, all of the G's will be D's."
+    },
+    {
+      "start": 23.36,
+      "end": 26.28,
+      "text": "All of the A's will be E's."
+    },
+    {
+      "start": 26.28,
+      "end": 30.28,
+      "text": "All of the B's will be F, and so on."
+    },
+    {
+      "start": 30.28,
+      "end": 35.36,
+      "text": "You can also use this chart to turn the keys into numbers."
+    },
+    {
+      "start": 35.36,
+      "end": 41.4,
+      "text": "This will make it easy if you're playing in a band to change keys in case you are using different singers."
+    },
+    {
+      "start": 41.4,
+      "end": 45.8,
+      "text": "The number system makes it easy to change from key to key."
+    },
+    {
+      "start": 45.8,
+      "end": 52.34,
+      "text": "Often musicians use the capo to transpose to different keys on their guitar."
+    },
+    {
+      "start": 52.34,
+      "end": 54.98,
+      "text": "Each fret is a half a step."
+    },
+    {
+      "start": 54.98,
+      "end": 61.22,
+      "text": "You can see by the picture the guitar player is playing a C chord to frets up."
+    },
+    {
+      "start": 61.22,
+      "end": 68.86,
+      "text": "This means that the chord will sound like a D chord because D is two half steps up from C."
+    },
+    {
+      "start": 68.86,
+      "end": 76.4,
+      "text": "If you play keyboard and you want to change keys, you use the transpose button on your electric keyboard."
+    },
+    {
+      "start": 76.4,
+      "end": 84.84,
+      "text": "When you click the pluses, they go up a half a step, and if you click the minuses, they go down a half a step."
+    },
+    {
+      "start": 84.84,
+      "end": 91.78,
+      "text": "If you're playing in the key of C, for instance, and you want to play in the key of E,"
+    },
+    {
+      "start": 91.78,
+      "end": 97.32,
+      "text": "from C, you count up to C sharp, D, D sharp, E."
+    },
+    {
+      "start": 97.32,
+      "end": 100.16,
+      "text": "That's one, two, three, four."
+    },
+    {
+      "start": 100.16,
+      "end": 103.5,
+      "text": "So you would go up a plus four."
+    },
+    {
+      "start": 103.5,
+      "end": 109.4,
+      "text": "If you're playing in the key of C, and you want to play in the key of A,"
+    },
+    {
+      "start": 109.4,
+      "end": 112.54,
+      "text": "you might want to use the minus signs."
+    },
+    {
+      "start": 112.54,
+      "end": 120.72,
+      "text": "From C, B to B flat to A is three half steps down."
+    },
+    {
+      "start": 120.72,
+      "end": 123.68,
+      "text": "This works with any key."
+    },
+    {
+      "start": 123.68,
+      "end": 126.92,
+      "text": "Let's revisit the C scale."
+    },
+    {
+      "start": 126.92,
+      "end": 132.32,
+      "text": "If you know the C scale in the chords in the key of C,"
+    },
+    {
+      "start": 132.32,
+      "end": 140.8,
+      "text": "then transposing on a keyboard or a guitar can be much easier with the number system"
+    },
+    {
+      "start": 140.8,
+      "end": 154.68,
+      "text": "because whenever you would see a one, you would play a C, a two, a D, a three, an E, a four, an F, a five, a G, and a six, an A."
+    },
+    {
+      "start": 154.68,
+      "end": 164.16,
+      "text": "It is not necessary to use the exact chords that are in a scale when you are writing a song or playing a song."
+    },
+    {
+      "start": 164.16,
+      "end": 171.8,
+      "text": "For instance, in a scale, the two is usually minor, however, in country music,"
+    },
+    {
+      "start": 171.8,
+      "end": 176.04,
+      "text": "very often they use the two chord as a major."
+    },
+    {
+      "start": 176.04,
+      "end": 182.88,
+      "text": "A two major produces a sound that is very characteristic to country music."
+    },
+    {
+      "start": 182.88,
+      "end": 191.56,
+      "text": "If you transpose your keyboard to the key of E, you would still be playing the chords from the C scale,"
+    },
+    {
+      "start": 191.56,
+      "end": 195.6,
+      "text": "but it was sound as if you were playing in the key of E."
+    },
+    {
+      "start": 195.6,
+      "end": 199.6,
+      "text": "I suggest you also learn the key of G."
+    },
+    {
+      "start": 199.6,
+      "end": 205.64,
+      "text": "The key of C and the key of G share some of the same chords."
+    },
+    {
+      "start": 205.64,
+      "end": 212,
+      "text": "They share G, A minor, C, and E minor."
+    },
+    {
+      "start": 212,
+      "end": 221.96,
+      "text": "The new chords are a B minor and a D major because, in the scale of G, the F is sharped."
+    },
+    {
+      "start": 221.96,
+      "end": 229.56,
+      "text": "Knowing these two keys can make transposing on guitar and piano much easier."
+    },
+    {
+      "start": 229.56,
+      "end": 233.04,
+      "text": "Or you can learn how to play in all of the keys."
+    },
+    {
+      "start": 233.04,
+      "end": 237.04,
+      "text": "The real good musicians can do that."
+    },
+    {
+      "start": 237.04,
+      "end": 240.6,
+      "text": "You have learned the number system."
+    },
+    {
+      "start": 240.6,
+      "end": 247.96,
+      "text": "There are more samples in the PDF to give you a better idea with more complicated songs,"
+    },
+    {
+      "start": 247.96,
+      "end": 252.2,
+      "text": "how to translate them into the number system."
+    },
+    {
+      "start": 252.2,
+      "end": 257.88,
+      "text": "The next part of this course shows how to build chords on the keyboard."
+    },
+    {
+      "start": 257.88,
+      "end": 263.44,
+      "text": "My brother loved this part of the course because he plays guitar, he knew the chords,"
+    },
+    {
+      "start": 263.44,
+      "end": 266.44,
+      "text": "and now he can play them on the piano."
+    },
+    {
+      "start": 266.44,
+      "end": 271.44,
+      "text": "Remember to always make music fun!"
+    },
+    {
+      "start": 271.44,
+      "end": 278.88,
+      "text": "Here is a song I wrote for my up-and-coming musical Miss Pearl's Parlor."
+    },
+    {
+      "start": 278.88,
+      "end": 286.88,
+      "text": "And yes, I recorded this in Nashville with musicians who read the number system."
+    },
+    {
+      "start": 296.44,
+      "end": 309.64,
+      "text": "You've got deep pockets, I could tell in a flash, you've got some deep pockets."
+    },
+    {
+      "start": 309.64,
+      "end": 320.16,
+      "text": "And my deep mind asks me how I know you are the man for me."
+    },
+    {
+      "start": 320.16,
+      "end": 334.8,
+      "text": "Hey, Mr. Deep Fockets, are you looking for some company?"
+    },
+    {
+      "start": 334.8,
+      "end": 344,
+      "text": "You've got deep pockets, I could tell by your style, you've got some deep pockets, I could"
+    },
+    {
+      "start": 344,
+      "end": 350.02,
+      "text": "see by the way that you walked in the room."
+    },
+    {
+      "start": 350.02,
+      "end": 369.24,
+      "text": "Just like you're ruling the roost, hey, Mr. Deep Fockets, I want to take off your boots."
+    },
+    {
+      "start": 369.24,
+      "end": 386.72,
+      "text": "The other girls here, they settle for fear, I like fine champagne, I appreciate you dear,"
+    },
+    {
+      "start": 386.72,
+      "end": 396.04,
+      "text": "you're never ever going to hear me complain, hey, Mr. Deep Fockets, what you got down there"
+    },
+    {
+      "start": 396.04,
+      "end": 411.38,
+      "text": "in those deep pockets, let's go upstairs, we'll dance all night, you and me in mine."
+    },
+    {
+      "start": 411.38,
+      "end": 425.46,
+      "text": "Hey, Mr. Deep Fockets, I want to take off your boots."
+    },
+    {
+      "start": 425.46,
+      "end": 444.24,
+      "text": "I want to take off your boots, let's go upstairs, let's go upstairs, let's go upstairs, let's"
+    },
+    {
+      "start": 444.24,
+      "end": 466.66,
+      "text": "go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs,"
+    },
+    {
+      "start": 466.66,
+      "end": 481.92,
+      "text": "let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go"
+    },
+    {
+      "start": 481.92,
+      "end": 498.66,
+      "text": "upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's"
+    },
+    {
+      "start": 498.66,
+      "end": 516.32,
+      "text": "go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs,"
+    },
+    {
+      "start": 516.32,
+      "end": 542.08,
+      "text": "let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs, let's go upstairs,"
+    }
+  ],
+  "source": "whisper",
+  "url": "https://vimeo.com/539419918"
 }

@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "transcripts": "node scripts/pull-transcripts.mjs"
+    "transcripts": "node scripts/pull-transcripts.mjs",
+    "vimeo:allow-embeds": "node scripts/vimeo-allow-embeds.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.9.0",
