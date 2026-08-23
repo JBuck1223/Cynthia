@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --sand: #F6F1E8;
+  --sand-dark: #E8DFD0;
+  --foam: #FFFEFB;
+  --gulf: #2B8A9E;
+  --gulf-deep: #1A5C6B;
+  --gulf-light: #5EB3C2;
+  --sky: #E4F4F7;
+  --horizon: #14323C;
+  --muted: #6B7C82;
+  --coral: #E07A5F;
+  --coral-deep: #C45D44;
+  --card-border: #E4D9C8;
+
+  --background: #F6F1E8;
+  --foreground: #14323C;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-sand: var(--sand);
+  --color-sand-dark: var(--sand-dark);
+  --color-foam: var(--foam);
+  --color-gulf: var(--gulf);
+  --color-gulf-deep: var(--gulf-deep);
+  --color-gulf-light: var(--gulf-light);
+  --color-sky: var(--sky);
+  --color-horizon: var(--horizon);
+  --color-muted: var(--muted);
+  --color-coral: var(--coral);
+  --color-coral-deep: var(--coral-deep);
+  --color-card-border: var(--card-border);
+  --font-sans: var(--font-source);
+  --font-display: var(--font-fraunces);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--sand);
+  color: var(--horizon);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: var(--sky);
+  color: var(--gulf-deep);
+}
+
+.font-display {
+  font-family: var(--font-fraunces), Georgia, serif;
+}
+
+.beach-horizon {
+  background:
+    linear-gradient(180deg, #d8eef4 0%, #b9dce6 28%, #7eb8c6 52%, #f6f1e8 78%, #f6f1e8 100%);
+}
+
+.wave-line {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gulf-light), transparent);
+}
