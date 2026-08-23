@@ -41,7 +41,7 @@ export default async function CoursePage({ params }: { params: Promise<{ slug: s
           alt={course.title}
           width={900}
           height={600}
-          className="w-full rounded-3xl border border-card-border object-cover"
+          className="w-full object-cover"
         />
       </div>
 

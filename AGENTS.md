@@ -1,6 +1,6 @@
 # Cynthia Productions
 
-Focused LMS: sell piano/composition courses to families. Brand is Sarasota beach — white sand, gulf blues, foam white, sunset coral for buy buttons. Fonts: Fraunces + Source Sans 3.
+Focused LMS at **cynthiamusic.com**: sell piano/composition courses to families. Brand is Sarasota beach — white sand, gulf blues, foam white, sunset coral for buy buttons. Fonts: Fraunces + Source Sans 3.
 
 Do not port the old WordPress catalog (musicals, novels, VBS). Do not copy Misty Barron’s lavender/gold palette.
 

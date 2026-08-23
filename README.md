@@ -1,6 +1,6 @@
 # Cynthia Productions
 
-Sarasota piano school. White sand and gulf blues. Site for **new.cynthiaproductions.com**.
+Sarasota piano school. White sand and gulf blues. Site for **cynthiamusic.com**.
 
 Teach kids, adults, and grandparents to play and compose together. Three video courses at $97, family bundle at $197.
 
@@ -24,7 +24,7 @@ Public pages work without env. Checkout, studio login, and admin need Supabase +
 
 Vimeo has no captions on these videos, and downloads are blocked without a Vimeo account token. `npm run transcripts` records every lesson URL. To fill transcripts later: add a Vimeo API token, or download audio from Vimeo’s owner dashboard and drop Whisper JSON into `content/transcripts/{course}/{lesson}.json`.
 
-Embeds are domain-locked. In Vimeo, allow `localhost:3010` and `new.cynthiaproductions.com`.
+Embeds are domain-locked. In Vimeo, allow `localhost:3010` and `cynthiamusic.com`.
 
 ## Brand
 

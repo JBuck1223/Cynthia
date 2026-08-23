@@ -32,11 +32,11 @@ export type Book = {
 }
 
 export const SITE = {
-  name: 'Cynthia Productions',
+  name: 'Cynthia Music',
   tagline: 'To heal the world with music',
   promise: 'Learn piano and composition so you can play with your kids and grandkids.',
-  email: 'hello@cynthiaproductions.com',
-  url: 'https://new.cynthiaproductions.com',
+  email: 'hello@cynthiamusic.com',
+  url: 'https://cynthiamusic.com',
   city: 'Sarasota, Florida',
 }
 

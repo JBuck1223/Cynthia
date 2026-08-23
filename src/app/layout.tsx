@@ -24,6 +24,7 @@ export const metadata: Metadata = {
     description: SITE.promise,
     type: 'website',
     url: SITE.url,
+    images: [{ url: '/images/cynthia/hero.jpg' }],
   },
 }
 

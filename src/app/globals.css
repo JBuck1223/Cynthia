@@ -55,13 +55,3 @@ body {
 .font-display {
   font-family: var(--font-fraunces), Georgia, serif;
 }
-
-.beach-horizon {
-  background:
-    linear-gradient(180deg, #d8eef4 0%, #b9dce6 28%, #7eb8c6 52%, #f6f1e8 78%, #f6f1e8 100%);
-}
-
-.wave-line {
-  height: 1px;
-  background: linear-gradient(90deg, transparent, var(--gulf-light), transparent);
-}
